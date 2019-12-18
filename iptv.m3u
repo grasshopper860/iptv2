@@ -51,6 +51,8 @@ http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:0,Al Jadeed
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
+#EXTINF:0,Al Jazeera
+http://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:0,Al Jazeera News FHD
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
 #EXTINF:0,Al Jazeera News FHD (1+)
@@ -59,6 +61,8 @@ https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arab
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index2073.m3u8
 #EXTINF:0,Al Jazeera News HD (1+)
 https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index2073.m3u8
+#EXTINF:0,Al Jazeera News Mubasher HD (1+)
+http://mubasher.streaming.aljazeera.net/apple/aljazeera/mubasher/appleman1434.m3u8
 #EXTINF:0,Al Kawthar TV
 http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
 #EXTINF:0,Al Mamlka FHD
@@ -331,6 +335,8 @@ http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:0,Assadissa
 http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:0,Cartoon Network
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 #EXTINF:0,1
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:0,2
