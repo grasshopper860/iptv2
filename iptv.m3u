@@ -3,6 +3,8 @@
 http://live.paltoday.tv:1935/paltv/live/playlist.m3u8
 #EXTINF:-1 group-title="Palestine",Palestine TV
 http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Palestine",Palestine TV (Backup)
+http://4tfgufj-lh.akamaihd.net/i/4tfgufj2owx9ga_1@793108/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Palestine",Palestine Live
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Palestine",Al-Aqsa
@@ -17,8 +19,28 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 group-title="Palestine",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Palestine",Alawdah TV		
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Palestine",Musawah TV
+http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Palestine",Alsalam TV
+http://htvint.mada.ps:8889/salamtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Palestine",Raya TV
+http://htvmada.mada.ps:8888/raya/playlist.m3u8
+#EXTINF:-1 group-title="Palestine",Raya TV (Backup)
+http://vstreamgz.hadara.ps:8081/RayaHD_web/web/chunks.m3u8?v=86757236
+#EXTINF:-1 group-title="Palestine",Freedom TV
+http://vstream3.hadara.ps:8081/hrHD_web/web/playlist.m3u8?v=86757236
+#EXTINF:-1 group-title="Palestine",Watar TV
+http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8?v=86757236
 #EXTINF:-1 group-title="Lebanon",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
+#EXTINF:-1 group-title="Palestine",Almahd TV
+http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8?v=86757236
+#EXTINF:-1 group-title="Palestine",Kol Elnas
+http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8?v=86757236
+#EXTINF:-1 group-title="Palestine",Wattan TV
+http://htvmada.mada.ps:8888/wattan/index.m3u8?v=86757236
 #EXTINF:-1 group-title="Lebanon",Future TV (Backup)
 http://livecdnh2.tvanywhere.ae/hls/future/04.m3u8
 #EXTINF:-1 group-title="Lebanon",AlManar TV
@@ -26,9 +48,13 @@ https://manar.live/iptv/chunklist_w715324590_b500000.m3u8?v=2957056943
 #EXTINF:-1 group-title="Lebanon",AlManar TV (Backup)
 http://manar.live/iptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Lebanon",MTV
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
+#EXTINF:-1 group-title="Lebanon",MTV (Backup)
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/03.m3u8
 #EXTINF:-1 group-title="Lebanon",MTV (Backup)
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/01.m3u8
+#EXTINF:-1 group-title="Lebanon",MTV (Backup)
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 group-title="Lebanon",OTV
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist_406p.m3u8
 #EXTINF:-1 group-title="Lebanon",OTV (Backup)
@@ -171,22 +197,26 @@ http://82.212.74.99:8000/live/hls/8164.m3u8?v=2957056943&tokenekot=ceAYRa9063Roq
 https://cllive.itworkscdn.net/sbclive/token=nva=1587314807~dirs=1~hash=0fe3fbbd891f70cb7479d/sbc.smil/sbc_720p_chunks.m3u8
 #EXTINF:-1 group-title="Saudi arabia",AlKhalij TV
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-#EXTINF:-1 group-title="Qatar",Aljazera
+#EXTINF:-1 group-title="Qatar",Aljazeera
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587322303/ei/XkmcXu6pO4uo7gPP3pugCg/ip/176.65.27.175/id/ueliG2kthek.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-h5q52n-1qhl.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/ps/vprv/1/playlist_type/DVR/initcwndbps/2860/mh/8O/mm/44/mn/sn-h5q52n-1qhl/ms/lva/mv/m/mvi/2/pl/23/dover/11/keepalive/yes/mt/1587300620/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIgPMnmyWWhvkX3w_pXbFg_2MeMPIFDA9FAu6xb_jPVNSwCIQCUmtKVHzsLibD6gefdX0naYYxdwOgLwidr4i3Xb6nNkw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgTzLvguNT-x2AXjNbljs3OgtkMcPAdiai9zTn8w30HeUCIQC6JPrQnwRWbdOzhWzkSsWgHTbQ70f0Z-rcss7GqZZzLQ%3D%3D/playlist/index.m3u8
-#EXTINF:-1 group-title="Qatar",Aljazera (Backup)
+#EXTINF:-1 group-title="Qatar",Aljazeera (Backup)
+https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index5000.m3u8
+#EXTINF:-1 group-title="Qatar",Aljazeera (Backup)
+http://live-hls-web-aja.getaj.net/AJA/04.m3u8	
+#EXTINF:-1 group-title="Qatar",Aljazeera (Backup)
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 group-title="Qatar",Aljazera English
+#EXTINF:-1 group-title="Qatar",Aljazeera English
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587325051/ei/G1ScXvn-FcangAe7lZzAAQ/ip/176.65.27.175/id/WisZM9CMlTo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-h5q52n-1qhl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2810/mh/Gn/mm/44/mn/sn-h5q52n-1qhl/ms/lva/mv/m/mvi/2/pl/23/dover/11/keepalive/yes/fexp/23882513/mt/1587303379/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIge_AVaNdiEzk4eLCr0BDQhUZ047qF_XUrJ4-eLAR_3hgCIQDMXZPB7b2Wg3zNMlERE_NqZm_ITYS0uPfZuOCfafndhA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgIoRpvOqxVrWtBL2Cm4HxwBDlV9CVGGTfYxXBQD5VdXkCICQFT-LnGqJpgMU4AbNBnpo47Z_s5Yt6nDroXHcWo1B7/playlist/index.m3u8 
-#EXTINF:-1 group-title="Qatar",Aljazera English (Backup)
+#EXTINF:-1 group-title="Qatar",Aljazeera English (Backup)
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="Qatar",Aljazera English (Backup)
+#EXTINF:-1 group-title="Qatar",Aljazeera English (Backup)
 http://nimplus6eu1.giniko.com/aljazeeraeng/aljazeeraeng/chunklist_w1823500404.m3u8?nimblesessionid=1107868&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDIwIDE6MzQ6NTYgUE0maGFzaF92YWx1ZT1sWHMxOHFWV2lWd210YUxhYUllbDZ3PT0mdmFsaWRtaW51dGVzPTI4ODA=
 Aljazera Balkans:http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1 group-title="Qatar",Aljazera Mubasher
+#EXTINF:-1 group-title="Qatar",Aljazeera Mubasher
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587322614/ei/lkqcXsnXHMKpgAeSgJDYDA/ip/176.65.27.175/id/ufHNEBD9Xu8.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-h5q52n-1qhl.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/ps/vprv/1/playlist_type/DVR/initcwndbps/2950/mh/aM/mm/44/mn/sn-h5q52n-1qhl/ms/lva/mv/m/mvi/5/pl/23/dover/11/keepalive/yes/mt/1587300921/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIhAJwJtw6RQJ0OhMP360kRdBZoCITMRgDK1VWMAUD0ZyKVAiACrSzBcnc1G1gHofnw_82yTqImSDynN_oeUbpihrdpgQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhALaw6Adg3vyj0TqYeMIATa3rf1MzwzPIdgLiLyVSm69VAiEAjk8nnZvOUtMLl0yFt1ntkOkET8On1Kut0FTg_ayDAs4%3D/playlist/index.m3u8
-#EXTINF:-1 group-title="Qatar",Aljazera Mubasher (Backup)
+#EXTINF:-1 group-title="Qatar",Aljazeera Mubasher (Backup)
 http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:-1 group-title="Qatar",Aljazera Documentery
+#EXTINF:-1 group-title="Qatar",Aljazeera Documentery
 http://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 #EXTINF:-1 group-title="Qatar",Qatar Science TV
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/q_700030.m3u8
@@ -549,10 +579,6 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
 #EXTINF:-1, Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1, MTV Lebanon
-http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/03.m3u8
-#EXTINF:-1, MTV Lebanon HD
-http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
 #EXTINF:-1, Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1, Muslim Channel TV (RU)
@@ -607,6 +633,10 @@ http://roya-live.ercdn.net/roya/roya_720p.m3u8
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1, RT Arabic HD
 https://rt-arab-gd.secure2.footprint.net/1104_2500Kb.m3u8
+#EXTINF:-1, RT Arabic HD (Backup)
+http://rt-arab.secure.footprint.net:80/1104_2500Kb.m3u8
+#EXTINF:-1, RT Arabic HD (Backup)
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 #EXTINF:-1, Sahel TV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1, Sama Dubai
@@ -624,9 +654,11 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1, Sky News (EN)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1, Spacetoon
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w693439211_b346000_slAR.m3u8
+#EXTINF:-1, Spacetoon (Backup)
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
 #EXTINF:-1, Spacetoon (Backup)
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w693439211_b346000_slAR.m3u8
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/02.m3u8
 #EXTINF:-1, Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 #EXTINF:-1, Star Movies HD
