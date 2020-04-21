@@ -105,6 +105,8 @@ http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
 https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
 #EXTINF:-1 group-title="Syria",Alyawm TV
 http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014_480p.m3u8
+#EXTINF:-1 group-title="Jordan",Almamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 #EXTINF:-1 group-title="Jordan",Jordan TV
 http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist_w2045323756.m3u8?v=2957056943
 #EXTINF:-1 group-title="Jordan",Jordan TV (Backup)
