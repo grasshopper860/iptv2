@@ -153,6 +153,30 @@ http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
 #EXTINF:-1 group-title="Egypt",Nile Sport
 http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
+#EXTINF:-1 group-title="Egypt",DMC Live
+http://livecdnh3.tvanywhere.ae/hls/dmchd/04.m3u8
+#EXTINF:-1 group-title="Egypt",DMC Live (Backup)
+http://livecdnh3.tvanywhere.ae/hls/dmchd/03.m3u8
+#EXTINF:-1 group-title="Egypt",DMC Drama
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
+#EXTINF:-1 group-title="Egypt",DMC Drama
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
+#EXTINF:-1 group-title="Egypt",Alhayat 1
+http://livecdnh2.tvanywhere.ae/hls/hayat/03.m3u8
+#EXTINF:-1 group-title="Egypt",CBC
+http://95.170.215.109/hls/m3u8/CBC-Backup.m3u8
+#EXTINF:-1 group-title="Egypt",CBC Drama
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
+#EXTINF:-1 group-title="Egypt",Alnahar TV
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/04.m3u8
+#EXTINF:-1 group-title="Egypt",Alnahar Drama
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/04.m3u8
+#EXTINF:-1 group-title="Egypt",Alnahar Drama (Drama)
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/03.m3u8
+#EXTINF:-1 group-title="Egypt",Sada Elbalad
+http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist_b2000000_t64NzIwcA==.m3u8?v=787761179
+#EXTINF:-1 group-title="Egypt",Cairo and People
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Quran TV
 http://m.live.net.sa:1935/live/quran/chunklist_w232396531.m3u8?v=2957056943
 #EXTINF:-1 group-title="Saudi arabia",Alledged Prophet sayings
