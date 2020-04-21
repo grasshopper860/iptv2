@@ -357,6 +357,22 @@ http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8?v=29570569
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=3116400149
 #EXTINF:-1 group-title="Bahrain",Bahrain Sports 2
 http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8?v=2957056943
+#EXTINF:-1 group-title="Al-Iraq",Alsharqiya News
+http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/chunklist_w2069861814_b510000_sleng.m3u8?v=86757236
+#EXTINF:-1 group-title="Al-Iraq",Alsharqiya News (Backup)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1419797891.m3u8?v=86757236
+#EXTINF:-1 group-title="Al-Iraq",Alsharqiya
+http://livecdnh2.tvanywhere.ae/hls/sharqiya/04.m3u8
+#EXTINF:-1 group-title="Al-Iraq",Alsharqiya (Backup)
+http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8
+#EXTINF:-1 group-title="Al-Iraq",Alkanat
+https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w1896448049_b1392000_slAR.m3u8?v=86757236
+#EXTINF:-1 group-title="Al-Iraq",Alrafidain TV
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?v=
+#EXTINF:-1 group-title="Al-Iraq",Alfallujah TV
+http://playback2.akamaized.net/streams/4671269_4213685_lsin1bm3r05fc19k6ea_1/exp=1587473390~acl=%2f*~data=hdntl~hmac=c5df43eb0a99bff272d6f9395570ec6bd9a6a8c7541b851b0379075d7ec6a9cc/media/4671269_4213685_lsin1bm3r05fc19k6ea_1@3628000pb.m3u8?dw=80&ts=1587384000
+#EXTINF:-1 group-title="Al-Iraq",Alrasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_650kbps/index.m3u8?v=37404998
 #EXTINF:-1 group-title="Oman",Oman TV
 http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Oman",Oman (Backup)
