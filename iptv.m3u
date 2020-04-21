@@ -33,16 +33,46 @@ http://vstreamgz.hadara.ps:8081/RayaHD_web/web/chunks.m3u8?v=86757236
 http://vstream3.hadara.ps:8081/hrHD_web/web/playlist.m3u8?v=86757236
 #EXTINF:-1 group-title="Palestine",Watar TV
 http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8?v=86757236
-#EXTINF:-1 group-title="Lebanon",Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
 #EXTINF:-1 group-title="Palestine",Almahd TV
 http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8?v=86757236
 #EXTINF:-1 group-title="Palestine",Kol Elnas
 http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8?v=86757236
 #EXTINF:-1 group-title="Palestine",Wattan TV
 http://htvmada.mada.ps:8888/wattan/index.m3u8?v=86757236
+#EXTINF:-1 group-title="Jordan",Almamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+#EXTINF:-1 group-title="Jordan",Jordan TV
+http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist_w2045323756.m3u8?v=2957056943
+#EXTINF:-1 group-title="Jordan",Jordan TV (Backup)
+http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
+#EXTINF:-1 group-title="Jordan",Jordan Sports
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w805154224.m3u8?v=2957056943
+#EXTINF:-1 group-title="Jordan",Jordanian Kingdom TV
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+#EXTINF:-1 group-title="Jordan",Jordan today
+http://185.27.116.54:1935/livestream/amn/chunklist_w1658250132.m3u8?v=2957056943
+#EXTINF:-1 group-title="Jordan",Roya TV
+http://roya-live.ercdn.net/roya/roya_1080p.m3u8?v=2957056943
+#EXTINF:-1 group-title="Jordan",Roya TV (Backup)
+http://roya-live.ercdn.net/roya/roya_720p.m3u8
+#EXTINF:-1 group-title="Jordan",Touyoor Aljani
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587331150/ei/7mucXsHbD5qb1gKH0ZmwDA/ip/176.65.27.175/id/BAB_DHQp4QY.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-h5q52n-1qhl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2720/mh/rD/mm/44/mn/sn-h5q52n-1qhl/ms/lva/mv/m/mvi/2/pl/23/dover/11/keepalive/yes/mt/1587309445/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgGNwbpTRFJ8uE0pn7GkEekhrvad5CzKD1feSiiF7ZnJQCIQCHYKWZQPEbz5elsiOcOAurp-YcnGldIRfJwMrplIYhqQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgbcmO81r3N1tYD2Ycm14R_blWRB3UNM0cS_0fQ_ShRf8CIQC3dzSOdLKIeeAdAJR6mn3hVsiPL2VKeBTDcI3sY_actQ%3D%3D/playlist/index.m3u8
+#EXTINF:-1 group-title="Jordan",Touyoor Aljani (Backup)
+http://95.170.215.109/hls/m3u8/TOYOR-J-Backup.m3u8
+#EXTINF:-1 group-title="Jordan",Touyoor Aljani Baby
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587331328/ei/oGycXs3FNZTX-gaKmZXQAg/ip/176.65.27.175/id/BAB_DHQp4QY.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-h5q52n-1qhl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2810/mh/rD/mm/44/mn/sn-h5q52n-1qhl/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/23/dover/11/keepalive/yes/mt/1587309622/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgaaTHvCvDdewABLxaOl1tc_kPtVnBSAjBC6lxGMrDYaoCIQDEbPkyTVHYaxeDP6m8ZMwKRqkZlqn0du1bK_3aB8L-Jg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRgIhANEJiwxG1GwiUC8hGZ7EXadmr0moP54EFNrI98HgGGY1AiEAnQFaBseQlSwYvU5vQ_-YptGu-0v1gg11ofzu_XsGNec%3D/playlist/index.m3u8
+#EXTINF:-1 group-title="Jordan",Touyoor Aljani Baby (Backup)
+http://95.170.215.109/hls/m3u8/TOYOR-B-Backup.m3u8
+#EXTINF:-1 group-title="Jordan",Amman TV
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master_1280x720_5000k.m3u8
+#EXTINF:-1 group-title="Lebanon",Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
 #EXTINF:-1 group-title="Lebanon",Future TV (Backup)
 http://livecdnh2.tvanywhere.ae/hls/future/04.m3u8
+#EXTINF:-1 group-title="Lebanon",Future TV (Backup)
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1 group-title="Lebanon",Future TV (Backup)
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
 #EXTINF:-1 group-title="Lebanon",AlManar TV
 https://manar.live/iptv/chunklist_w715324590_b500000.m3u8?v=2957056943
 #EXTINF:-1 group-title="Lebanon",AlManar TV (Backup)
@@ -105,52 +135,58 @@ http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
 https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
 #EXTINF:-1 group-title="Syria",Alyawm TV
 http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014_480p.m3u8
-#EXTINF:-1 group-title="Jordan",Almamlaka TV
-https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
-#EXTINF:-1 group-title="Jordan",Jordan TV
-http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist_w2045323756.m3u8?v=2957056943
-#EXTINF:-1 group-title="Jordan",Jordan TV (Backup)
-http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
-#EXTINF:-1 group-title="Jordan",Jordan Sports
-http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w805154224.m3u8?v=2957056943
-#EXTINF:-1 group-title="Jordan",Jordanian Kingdom TV
-https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
-#EXTINF:-1 group-title="Jordan",Jordan today
-http://185.27.116.54:1935/livestream/amn/chunklist_w1658250132.m3u8?v=2957056943
-#EXTINF:-1 group-title="Jordan",Roya TV
-http://roya-live.ercdn.net/roya/roya_1080p.m3u8?v=2957056943
-#EXTINF:-1 group-title="Jordan",Touyoor Aljani
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587331150/ei/7mucXsHbD5qb1gKH0ZmwDA/ip/176.65.27.175/id/BAB_DHQp4QY.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-h5q52n-1qhl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2720/mh/rD/mm/44/mn/sn-h5q52n-1qhl/ms/lva/mv/m/mvi/2/pl/23/dover/11/keepalive/yes/mt/1587309445/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgGNwbpTRFJ8uE0pn7GkEekhrvad5CzKD1feSiiF7ZnJQCIQCHYKWZQPEbz5elsiOcOAurp-YcnGldIRfJwMrplIYhqQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgbcmO81r3N1tYD2Ycm14R_blWRB3UNM0cS_0fQ_ShRf8CIQC3dzSOdLKIeeAdAJR6mn3hVsiPL2VKeBTDcI3sY_actQ%3D%3D/playlist/index.m3u8
-#EXTINF:-1 group-title="Jordan",Touyoor Aljani (Backup)
-http://95.170.215.109/hls/m3u8/TOYOR-J-Backup.m3u8
-#EXTINF:-1 group-title="Jordan",Touyoor Aljani Baby
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587331328/ei/oGycXs3FNZTX-gaKmZXQAg/ip/176.65.27.175/id/BAB_DHQp4QY.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-h5q52n-1qhl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2810/mh/rD/mm/44/mn/sn-h5q52n-1qhl/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/23/dover/11/keepalive/yes/mt/1587309622/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgaaTHvCvDdewABLxaOl1tc_kPtVnBSAjBC6lxGMrDYaoCIQDEbPkyTVHYaxeDP6m8ZMwKRqkZlqn0du1bK_3aB8L-Jg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRgIhANEJiwxG1GwiUC8hGZ7EXadmr0moP54EFNrI98HgGGY1AiEAnQFaBseQlSwYvU5vQ_-YptGu-0v1gg11ofzu_XsGNec%3D/playlist/index.m3u8
-#EXTINF:-1 group-title="Jordan",Touyoor Aljani Baby (Backup)
-http://95.170.215.109/hls/m3u8/TOYOR-B-Backup.m3u8
-#EXTINF:-1 group-title="Jordan",Amman TV
-https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master_1280x720_5000k.m3u8
+#EXTINF:-1 group-title="Egypt",Wattan Masr TV
+http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8?nimblesessionid=187857972&v=787761179
+#EXTINF:-1 group-title="Egypt",Elsharq TV
+https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+#EXTINF:-1 group-title="Egypt",Mokameleen TV
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
+#EXTINF:-1 group-title="Egypt",Alfateh TV
+https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
+#EXTINF:-1 group-title="Egypt",Sada Albalad
+https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CqgEnUVgUOxrR5aSFjpx5G5pjkeLZIfmLRVNK3tfxk_VA31la4uNMMg75Otp_80fx3UPMX1OlqCbBZoZQSrPkMN-ZTRuhnHu3MuakH9Vu7c1RTQEOnhJhoTuIucdFYSf2HgJKd5Fa7ISOVxha5zlplqkqxcgZ83OVgmFLwRahoyHNxzuMgvWn6LLVp0EoGiNgDFjxcQWpRD2m19CSeRJ2Nl94cOJNRvFN8b5PkjL74xRFltTUi0Ldxz9waiE8wl5QfYcYxRudDSiZWFrY1vnwe1QLcwlgrHzkE9DCTJuc2PZWLrDNaQpyox6C13EGubpmd4q5NVWbg4qb647ytvRdqf__HSVfGclg34HiEFNIhzVec8vkuu4i9dQ4dTgig1yA5ecKOTRWJI7n9BwVKXMbmyHxFAyzkE7EJwe7OJzx3DhJvfj1KSvj2nQ1bzbwILVy7poVNzIG_ax1vye7oTYPthFaVfEU1CJtgP_lDBwVOtqTObhLelqnKzC9_3yNu5saiFux-7cXqtMdA0CyzwH4O6b0I3z-TgDBKJ09WWT0J-9P2c17-gQIfuqwe2Lw2YiPB4wLJEgr2k9LTIT1kzdB5N4rSoQf_uOnvZoZ5ZnwwzkQV27X25VMY3395M60VhYmEpvdj9lMrT-Gn9yNu_I7zv_r-i3MnoRY3-uzj12dq63BFEruLj4AbFFB4dTegyXpPdgRSRrb8XFS8vIwkkAuyrJSkIld-VAEvy8EhC_808aZRdptM8dR0lGNcg8GgzjEhqbgDSp19L1n_Q.m3u8
+#EXTINF:-1 group-title="Egypt",Nile International
+http://livecdnh2.tvanywhere.ae/hls/nile_tv/04.m3u8
+#EXTINF:-1 group-title="Egypt",Nile Cinema
+http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
+#EXTINF:-1 group-title="Egypt",Nile Drama
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
+#EXTINF:-1 group-title="Egypt",Nile Sport
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Quran TV
 http://m.live.net.sa:1935/live/quran/chunklist_w232396531.m3u8?v=2957056943
 #EXTINF:-1 group-title="Saudi arabia",Alledged Prophet sayings
 http://m.live.net.sa:1935/live/sunnah/chunklist_w788649758.m3u8?v=2957056943
 #EXTINF:-1 group-title="Saudi arabia",Aloula Alsaudia
 https://cllive.itworkscdn.net/ksa1live/token=nva=1587310403~dirs=1~hash=010e5fe123dfd8734b5d1/ksa1.smil/ksa1_720p_chunks.m3u8
-#EXTINF:-1 group-title="Saudi arabia",Alsudia alekhbaria
+#EXTINF:-1 group-title="Saudi arabia",Alsudia Alekhbaria
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587319075/ei/wzycXpv4A8-W8gO2v5mwDA/ip/176.65.27.175/id/Z7KnNR1K7AI.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/r4---sn-h5q52n-1qhl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2930/mh/A1/mm/44/mn/sn-h5q52n-1qhl/ms/lva/mv/m/mvi/3/pl/23/dover/11/keepalive/yes/mt/1587297436/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wQwIfeAO944dZtiErN0BiCxLcGvimewIgCdxGDo_6ur-XogIgYiiDh61EiIaZDJL772x3ZGT_Q1daL8Kvkr-AZsbFV00%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgQb4IawRrPxa0KhRNvWoom1ZlI5z7DTq0O_-LwF7p2ksCIQC8R6BOQxKgQh_yiAOLMug9biF1oRMSliVUKfWpGO9qIQ%3D%3D/playlist/index.m3u8
-#EXTINF:-1 group-title="Saudi arabia",Rotana alkhalegia
+#EXTINF:-1 group-title="Saudi arabia",Rotana Alkhalegia
 https://cllive.itworkscdn.net/rkhalijeanlive/token=nva=1587308755~dirs=1~hash=0670c7b495d383ad93265/rkhalijean/chunks.m3u8
-#EXTINF:-1 group-title="Saudi arabia",Rotana alkhalegia (Backup)
+#EXTINF:-1 group-title="Saudi arabia",Rotana Alkhalegia (Backup)
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
-#EXTINF:-1 group-title="Saudi arabia",Rotana cinema
+#EXTINF:-1 group-title="Saudi arabia",Rotana Cinema
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
-#EXTINF:-1 group-title="Saudi arabia",Rotana aflam
+#EXTINF:-1 group-title="Saudi arabia",Rotana Aflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
-#EXTINF:-1 group-title="Saudi arabia",Rotana drama
+#EXTINF:-1 group-title="Saudi arabia",Rotana Drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+#EXTINF:-1 group-title="Saudi arabia",Rotana Drama (Backup)
 http://livecdnh3.tvanywhere.ae/hls/rotmas/01.m3u8
-#EXTINF:-1 group-title="Saudi arabia",Rotana classic
+#EXTINF:-1 group-title="Saudi arabia",Rotana Classic
 http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:-1 group-title="Saudi arabia",Rotana Classic (Backup)
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:-1 group-title="Saudi arabia",Rotana Clip
+http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
+#EXTINF:-1 group-title="Saudi arabia",Rotana Music
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:-1 group-title="Saudi arabia",MBC 1 (Backup)
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:-1 group-title="Saudi arabia",MBC 1 (Backup)
+http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
 #EXTINF:-1 group-title="Saudi arabia",MBC 1 (Backup)
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NzMzNDI3MCwiaWF0IjoxNTg3Mjk4MjcwLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzFrc2EtcHJvZC5zaGFoaWQubmV0L21iYzFrc2EtcHJvZC5tM3U4P2ZpbHRlcj0xNDRfNzIwIn0.c4xdP8QvnUB1fObGdfMKEl5Qfv5-lhBIZ6jYEKMFESY
 #EXTINF:-1 group-title="Saudi arabia",MBC 2
@@ -164,7 +200,7 @@ http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
 #EXTINF:-1 group-title="Saudi arabia",MBC 4 (Backup)
 https://shls-mbc4-prod.shahid.net/mbc4-prod_3.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NzMzNDYwOCwiaWF0IjoxNTg3Mjk4NjA4LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iY2RyYW1ha3NhLXByb2Quc2hhaGlkLm5ldC9tYmNkcmFtYWtzYS1wcm9kLm0zdTg_ZmlsdGVyPTE0NF83MjAifQ.EsTQOGpRg-wZ5LjdbgH8maNFzTRbY-k3oZEKYqCazXc
 #EXTINF:-1 group-title="Saudi arabia",MBC 5
-https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NzMzNDYzNCwiaWF0IjoxNTg3Mjk4NjM0LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzUtcHJvZC5zaGFoaWQubmV0L21iYzUtcHJvZC5tM3U4P2ZpbHRlcj0xNDRfNzIwIn0.hIyma2nCYHBd8MhBJZlyOHru_N0ygsqmobgDk6aOPWc
+https://shls-mbc5-prod.shahid.net/mbc5-prod_8.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NzQ5MDU2MSwiaWF0IjoxNTg3NDU0NTYxLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzUtcHJvZC5zaGFoaWQubmV0L21iYzUtcHJvZC5tM3U4P2ZpbHRlcj0xNDRfNzIwIn0.NwAmbzQXKEMO0ucsyKoX1EEPOFGRX402lGGAvCNzSAg
 #EXTINF:-1 group-title="Saudi arabia",MBC Drama
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
 #EXTINF:-1 group-title="Saudi arabia",MBC Drama (Backup)
@@ -401,351 +437,327 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8?v=2957056943
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587330041/ei/mWecXsihM4aF1gKpiYvYDw/ip/176.65.27.175/id/EB4prKv4HEk.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-h5q52n-1qhl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2790/mh/Bp/mm/44/mn/sn-h5q52n-1qhl/ms/lva/mv/m/mvi/3/pl/23/dover/11/keepalive/yes/mt/1587308364/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAL-CvKxhehVj5ihTSh9bAlS5NoMd8uKg-zWZIgc1wSV7AiA0V9zbzcEw93H3bOZDP_p5vNFLq5nI8Ve5uFg5Eb4b2A%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgQIXYsfB6Vapyn3lbqeRC7fQzwesqTbcSr84vzxpCmckCICo3iEPE5oWwVhY7hqhWrIsxANxCNy_T1lLdOCJ1KNOI/playlist/index.m3u8
 #EXTINF:-1 group-title="Soumal", Soumalian TV
 http://cdn.mediavisionuae.com:1935/live/stv.stream/chunklist_w1827589767.m3u8?v=2957056943
-#EXTINF:-1, 218 News HD
+#EXTINF:-1,218 News HD
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:-1, ABN
+#EXTINF:-1,ABN
 http://rtmp1.abnsat.com/hls/arabic.m3u8
-#EXTINF:-1, tvg-logo="http://en.elbesharagtv.com/uploads/7/9/0/0/79001918/300x169_3_orig.png" group-title="Religius",Elbeshara Tv
+#EXTINF:-1,tvg-logo="http://en.elbesharagtv.com/uploads/7/9/0/0/79001918/300x169_3_orig.png" group-title="Religius",Elbeshara Tv
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/chunklist_w783296947_b1400000_slar_t64SEQ=.m3u8
-#EXTINF:-1, Dubai TV
+#EXTINF:-1,Dubai TV
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8?v=787764643
-#EXTINF:-1, Abu Dhabi Drama
+#EXTINF:-1,Abu Dhabi Drama
 https://adtv.ercdn.net/addrama/addrama_480p.m3u8
-#EXTINF:-1, Abu Dhabi Drama HD
+#EXTINF:-1,Abu Dhabi Drama HD
 https://adtv.ercdn.net/addrama/addrama_720p.m3u8
-#EXTINF:-1, Abu Dhabi TV
+#EXTINF:-1,Abu Dhabi TV
 http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
-#EXTINF:-1, Abu Dhabi TV HD
+#EXTINF:-1,Abu Dhabi TV HD
 http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
-#EXTINF:-1, AD Sports 1 (1+)
+#EXTINF:-1,AD Sports 1 (1+)
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1, AD Sports 1 HD
+#EXTINF:-1,AD Sports 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1, AD Sports 2 (1+)
+#EXTINF:-1,AD Sports 2 (1+)
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1, AD Sports 2 HD
+#EXTINF:-1,AD Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1, Ajman
+#EXTINF:-1,Ajman
 http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
-#EXTINF:-1, MTV
+#EXTINF:-1,MTV
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
-#EXTINF:-1, OTV
+#EXTINF:-1,OTV
 http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
-#EXTINF:-1, Almustaqbal
+#EXTINF:-1,Almustaqbal
 http://livecdnh2.tvanywhere.ae/hls/future/04.m3u8
-#EXTINF:-1, Al Arabiya FHD
+#EXTINF:-1,Al Arabiya FHD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_w9595955_b4500000.m3u8
-#EXTINF:-1, Al Arabiya HD
+#EXTINF:-1,Al Arabiya HD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_w9595955_b1400000.m3u8
-#EXTINF:-1, Al Araby HD
+#EXTINF:-1,Al Araby HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, CNBC Arabic
+#EXTINF:-1,CNBC Arabic
 http://live.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8?gmswf=15392984?787764643
-#EXTINF:-1, Al Emarat TV
+#EXTINF:-1,Al Emarat TV
 http://adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8
-#EXTINF:-1, Al Emarat TV HD
+#EXTINF:-1,Al Emarat TV HD
 http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
-#EXTINF:-1, Al Fujaira
+#EXTINF:-1,Al Fujaira
 http://ccfz.dyndns.org:8282/hls-live/fujtv/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1, Al Hadath FHD
+#EXTINF:-1,Al Hadath FHD
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_w9595955_b4500000.m3u8
-#EXTINF:-1, Al Hadath HD
+#EXTINF:-1,Al Hadath HD
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_w9595955_b1400000.m3u8
-#EXTINF:-1, Al Hiwar HD
+#EXTINF:-1,Al Hiwar HD
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8
-#EXTINF:-1, Al Istiqama TV
+#EXTINF:-1,Al Istiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:-1, Al Jadeed
+#EXTINF:-1,Al Jadeed
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
-#EXTINF:-1, Al Jazeera
+#EXTINF:-1,Al Jazeera
 http://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1, Al Jazeera News FHD
+#EXTINF:-1,Al Jazeera News FHD
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
-#EXTINF:-1, Al Jazeera News FHD (1+)
+#EXTINF:-1,Al Jazeera News FHD (1+)
 https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index5000.m3u8
-#EXTINF:-1, Al Jazeera News HD
+#EXTINF:-1,Al Jazeera News HD
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index2073.m3u8
-#EXTINF:-1, Al Jazeera News HD (1+)
+#EXTINF:-1,Al Jazeera News HD (1+)
 https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index2073.m3u8
-#EXTINF:-1, Al Jazeera News Mubasher HD (1+)
+#EXTINF:-1,Al Jazeera News Mubasher HD (1+)
 http://live-hls-web-ajm.getaj.net/AJM/02.m3u8
-#EXTINF:-1, Al Jazeera Documentary
+#EXTINF:-1,Al Jazeera Documentary
 http://live-hls-web-ajd.getaj.net/AJD/01.m3u8
-#EXTINF:-1, Al Kawthar TV
+#EXTINF:-1,Al Kawthar TV
 http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
-#EXTINF:-1, Al Mamlka FHD
+#EXTINF:-1,Al Mamlka FHD
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
-#EXTINF:-1, Al Mayadeen TV
+#EXTINF:-1,Al Mayadeen TV
 http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
-#EXTINF:-1, Al Nahar
+#EXTINF:-1,Al Nahar
 http://livecdnh2.tvanywhere.ae/hls/nahar_sd/04.m3u8
-#EXTINF:-1, Al Nahar Drama
+#EXTINF:-1,Al Nahar Drama
 http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/04.m3u8
-#EXTINF:-1, Al Rai HD
+#EXTINF:-1,Al Rai HD
 https://stream02.fasttelco.net/live/alrai.stream/chunklist_w420445644.m3u8
-#EXTINF:-1, Al Rayyan 1
+#EXTINF:-1,Al Rayyan 1
 http://alrayyan2live.azureedge.net/alrayyan1/alrayyan1.smil/playlist.m3u8
-#EXTINF:-1, Al Rayyan 2
+#EXTINF:-1,Al Rayyan 2
 https://alrayyan2live.azureedge.net/alrayyan2/alrayyan2.smil/playlist.m3u8
-#EXTINF:-1, Al Sharqiya TV
+#EXTINF:-1,Al Sharqiya TV
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1, Al Tanasuh TV
+#EXTINF:-1,Al Tanasuh TV
 http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
-#EXTINF:-1, Alaan TV
+#EXTINF:-1,Alaan TV
 http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
-#EXTINF:-1, Alhayat
+#EXTINF:-1,Alhayat
 http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
-#EXTINF:-1, KSA-Sport
+#EXTINF:-1,KSA-Sport
 http://95.170.215.107/hls/m3u8/KSA-Sport1-Bakup.m3u8
-#EXTINF:-1, ARRYADIA
+#EXTINF:-1,ARRYADIA
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1, Ayaat
+#EXTINF:-1,Ayaat
 http://m.live.net.sa:1935/live/ayat/playlist.m3u8
-#EXTINF:-1, B4U Aflam
+#EXTINF:-1,B4U Aflam
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
-#EXTINF:-1, B4U Plus
+#EXTINF:-1,B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1, beiN Sports 1 HD
+#EXTINF:-1,beiN Sports 1 HD
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:-1, beiN Sports 2 HD
+#EXTINF:-1,beiN Sports 2 HD
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
-#EXTINF:-1, beiN Sports 3 HD
+#EXTINF:-1,beiN Sports 3 HD
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
-#EXTINF:-1, beiN Sports 4 HD
+#EXTINF:-1,beiN Sports 4 HD
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
-#EXTINF:-1, beiN Sports 5 HD
+#EXTINF:-1,beiN Sports 5 HD
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
-#EXTINF:-1, Blue Nile
+#EXTINF:-1,Blue Nile
 http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
-#EXTINF:-1, boomerang Kids HD (EN)
+#EXTINF:-1,boomerang Kids HD (EN)
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
-#EXTINF:-1, Cbc
+#EXTINF:-1,Cbc
 http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/04.m3u8
-#EXTINF:-1, Cbc drama
+#EXTINF:-1,Cbc drama
 http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
-#EXTINF:-1, Cbc Sofra
+#EXTINF:-1,Cbc Sofra
 http://livecdnh2.tvanywhere.ae/hls/cbc_sof/04.m3u8
-#EXTINF:-1, Cbc Sofra (1+)
+#EXTINF:-1,Cbc Sofra (1+)
 http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
-#EXTINF:-1, Cinema 1
+#EXTINF:-1,Cinema 1
 http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
-#EXTINF:-1, Citruss TV HD
+#EXTINF:-1,Citruss TV HD
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
-#EXTINF:-1, Company TV (EN)
+#EXTINF:-1,Company TV (EN)
 http://wma10.fluidstream.net/CompanyTV/_definst_:livestream_720p/playlist.m3u8
-#EXTINF:-1, Dijlah TV
+#EXTINF:-1,Dijlah TV
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1, dmc drama
+#EXTINF:-1,dmc drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
-#EXTINF:-1, dmc HD
+#EXTINF:-1,dmc HD
 http://livecdnh3.tvanywhere.ae/hls/dmchd/04.m3u8
-#EXTINF:-1, Dubai One HD
+#EXTINF:-1,Dubai One HD
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
-#EXTINF:-1, DUBAI RACING 1 HD
+#EXTINF:-1,DUBAI RACING 1 HD
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1, DUBAI RACING 2 HD
+#EXTINF:-1,DUBAI RACING 2 HD
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1, DUBAI RACING 2 HD (1+)
+#EXTINF:-1,DUBAI RACING 2 HD (1+)
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1, Dubai Sports 1 HD
+#EXTINF:-1,Dubai Sports 1 HD
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
-#EXTINF:-1, Dubai TV HD
+#EXTINF:-1,Dubai TV HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream/chunklist_b2000000.m3u8
-#EXTINF:-1, El Watan Libya
+#EXTINF:-1,El Watan Libya
 http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
-#EXTINF:-1, FR 24 News
+#EXTINF:-1,FR 24 News
 http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
-#EXTINF:-1, Funoon
+#EXTINF:-1,Funoon
 http://livecdnh3.tvanywhere.ae:80/hls/funoon/04.m3u8
-#EXTINF:-1, Future Leb TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
-#EXTINF:-1, Hawacom
+#EXTINF:-1,Hawacom
 http://livecdnh3.tvanywhere.ae/hls/hawacom/04.m3u8
-#EXTINF:-1, ifilm
+#EXTINF:-1,ifilm
 https://5a61de8ed719d.streamlock.net:1443/ifilmlive/smil:ifilmar.smil/chunklist_w380282670_b944100_slen.m3u8
-#EXTINF:-1, Iqraa Arabic
+#EXTINF:-1,Iqraa Arabic
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-#EXTINF:-1, Quran TV
+#EXTINF:-1,Quran TV
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-#EXTINF:-1, Alresalah
+#EXTINF:-1,Alresalah
 http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
-#EXTINF:-1, Jordan TV
+#EXTINF:-1,Jordan TV
 http://livecdnh2.tvanywhere.ae:80/hls/jordan/04.m3u8
-#EXTINF:-1, Kahera Wenas
+#EXTINF:-1,Kahera Wenas
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
-#EXTINF:-1, LBC Leb
+#EXTINF:-1,LBC Leb
 http://livecdnh2.tvanywhere.ae:80/hls/lbc_int/04.m3u8
-#EXTINF:-1, LDC Leb
+#EXTINF:-1,LDC Leb
 http://95.170.215.109/hls/m3u8/LDC-Backup.m3u8
-#EXTINF:-1, Libya Al Hadath
+#EXTINF:-1,Libya Al Hadath
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
-#EXTINF:-1, Libya Channel
+#EXTINF:-1,Libya Channel
 http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
-#EXTINF:-1, Libya Future
+#EXTINF:-1,Libya Future
 http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
-#EXTINF:-1, M24 HD
+#EXTINF:-1,M24 HD
 http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w575132091_b4500000_sleng.m3u8
-#EXTINF:-1, Majid Kids TV
+#EXTINF:-1,Majid Kids TV
 https://tvae.ercdn.net/majidtv/majidtv_480p.m3u8
-#EXTINF:-1, Majid Kids TV (1+)
+#EXTINF:-1,Majid Kids TV (1+)
 http://95.170.215.109/hls/m3u8/Majid-Backup.m3u8
-#EXTINF:-1, Majid Kids TV HD
+#EXTINF:-1,Majid Kids TV HD
 https://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
-#EXTINF:-1, Makkah TV
+#EXTINF:-1,Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
-#EXTINF:-1, MBC 1
-http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
-#EXTINF:-1, Mekameleen TV
+#EXTINF:-1,Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1, Music Now
+#EXTINF:-1,Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
-#EXTINF:-1, Muslim Channel TV (RU)
+#EXTINF:-1,Muslim Channel TV (RU)
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1//chunklist.m3u8
-#EXTINF:-1, Najah TV
+#EXTINF:-1,Najah TV
 http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Nat Geo People HD (EN)
+#EXTINF:-1,Nat Geo People HD (EN)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1, NAT GEO WILD (EN)
+#EXTINF:-1,NAT GEO WILD (EN)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
-#EXTINF:-1, NAT GEO WILD HD (EN)
+#EXTINF:-1,NAT GEO WILD HD (EN)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1, Nile Culture
+#EXTINF:-1,Nile Culture
 http://38.99.146.37:7777/NileCulture_HD/NileCulture_High/17039862.ts?user=sgls540839&session=ec878c97bb4e120e5652f80abc78bb679d2fe2bd0d1cd476140b148cb6ec0d91&hlsid=HTTP_ID_76&starttime=20200304T182053.634337
-#EXTINF:-1, NBN
+#EXTINF:-1,NBN
 http://livecdnh1.tvanywhere.ae:80/hls/nbn/03.m3u8
-#EXTINF:-1, NBN HD
+#EXTINF:-1,NBN HD
 http://livecdnh1.tvanywhere.ae:80/hls/nbn/05.m3u8
-#EXTINF:-1, Nessma
+#EXTINF:-1,Nessma
 http://livecdnh2.tvanywhere.ae:80/hls/nessma/04.m3u8
-#EXTINF:-1, Nile Cinema
-http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
-#EXTINF:-1, Nile Drama
-http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
-#EXTINF:-1, Nile TV
-http://livecdnh2.tvanywhere.ae/hls/nile_tv/04.m3u8
-#EXTINF:-1, Noor Dubai
+#EXTINF:-1,Noor Dubai
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
-#EXTINF:-1, OMAN SPORT
+#EXTINF:-1,OMAN SPORT
 http://38.96.148.35:1935/live/omantv02/playlist.m3u8
-#EXTINF:-1, Oman TV
+#EXTINF:-1,Oman TV
 http://38.96.148.35:1935/live/omantv01/chunklist.m3u8
-#EXTINF:-1, OTV Leb (1+)
+#EXTINF:-1,OTV Leb (1+)
 http://livecdnh2.tvanywhere.ae:80/hls/otv_leb/04.m3u8
-#EXTINF:-1, Rotana Aflam
-http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
-#EXTINF:-1, Rotana Cinema
-http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
-#EXTINF:-1, Rotana Classic
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
-#EXTINF:-1, Rotana Clip
-http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
-#EXTINF:-1, Rotana Drama
-http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
-#EXTINF:-1, Rotana Khalijia
-http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
-#EXTINF:-1, Rotana Music
-http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
-#EXTINF:-1, Roya HD
-http://roya-live.ercdn.net/roya/roya_720p.m3u8
-#EXTINF:-1, France24-Arabic
+#EXTINF:-1,France24-Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1, RT Arabic HD
+#EXTINF:-1,RT Arabic HD
 https://rt-arab-gd.secure2.footprint.net/1104_2500Kb.m3u8
-#EXTINF:-1, RT Arabic HD (Backup)
+#EXTINF:-1,RT Arabic HD (Backup)
 http://rt-arab.secure.footprint.net:80/1104_2500Kb.m3u8
-#EXTINF:-1, RT Arabic HD (Backup)
+#EXTINF:-1,RT Arabic HD (Backup)
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
-#EXTINF:-1, Sahel TV
+#EXTINF:-1,Sahel TV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
-#EXTINF:-1, Sama Dubai
+#EXTINF:-1,Sama Dubai
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1, Sama TV
+#EXTINF:-1,Sama TV
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
-#EXTINF:-1, Sat 7 Arabic
+#EXTINF:-1,Sat 7 Arabic
 http://208.93.113.90:1935/sat7arabic/satarabiclive-web.smil/chunklist_w1551062341_b1000000.m3u8
-#EXTINF:-1, Sat 7 Kids TV
+#EXTINF:-1,Sat 7 Kids TV
 http://unirtmp.tulix.tv:1935/sat7kids/satkidslive-web.smil/chunklist_w613405387_b1000000.m3u8
-#EXTINF:-1, Saudi Quran
+#EXTINF:-1,Saudi Quran
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-#EXTINF:-1, Saudi Sunnah
+#EXTINF:-1,Saudi Sunnah
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
-#EXTINF:-1, Sky News (EN)
+#EXTINF:-1,Sky News (EN)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1, Spacetoon
+#EXTINF:-1,Spacetoon
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w693439211_b346000_slAR.m3u8
-#EXTINF:-1, Spacetoon (Backup)
+#EXTINF:-1,Spacetoon (Backup)
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
-#EXTINF:-1, Spacetoon (Backup)
+#EXTINF:-1,Spacetoon (Backup)
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/02.m3u8
-#EXTINF:-1, Star Movies
+#EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1, Star Movies HD
+#EXTINF:-1,Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1, Star World
+#EXTINF:-1,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1, Star World HD
+#EXTINF:-1,Star World HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1, TAHA Kids TV
+#EXTINF:-1,TAHA Kids TV
 http://95.170.215.109/hls/m3u8/TAHA-Backup.m3u8
-#EXTINF:-1, Tamazight
+#EXTINF:-1,Tamazight
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1, TAYBA TV
+#EXTINF:-1,TAYBA TV
 http://tayba.live.net.sa:1935/tayba/taybatv/playlist.m3u8
-#EXTINF:-1, Zoom TV
+#EXTINF:-1,Zoom TV
 http://livecdnh1.tvanywhere.ae:80/hls/zoom/04.m3u8
-#EXTINF:-1, Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1, ANN
+#EXTINF:-1,ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1, Al Rasheed
+#EXTINF:-1,Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1, Al Sharqiya
+#EXTINF:-1,Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1, Canadian Arab TV (Canada)
+#EXTINF:-1,Canadian Arab TV (Canada)
 http://192.226.228.32:8080/hls/catv/index.m3u8
-#EXTINF:-1, Abu Dhabi Sports 1 HD
+#EXTINF:-1,Abu Dhabi Sports 1 HD
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1, Abu Dhabi Sports 2 HD
+#EXTINF:-1,Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1, Al Hadath
+#EXTINF:-1,Al Hadath
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
-#EXTINF:-1, 2M Monde
+#EXTINF:-1,2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1, Al Aoula International
+#EXTINF:-1,Al Aoula International
 http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1, Al Aoula Laayoune
+#EXTINF:-1,Al Aoula Laayoune
 http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1, Arrabiaa
+#EXTINF:-1,Arrabiaa
 http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1, Al Maghribia
+#EXTINF:-1,Al Maghribia
 http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1, Assadissa
+#EXTINF:-1,Assadissa
 http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1, Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
-#EXTINF:-1, Duck Tv (Cartoon)
+#EXTINF:-1,Duck Tv (Cartoon)
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-#EXTINF:-1, Real Madrid
+#EXTINF:-1,Bein Sports News
+http://46.60.1.82:8081/live/hdmib2/chunks.m3u8?nimblesessionid=18198983&v=freedaily
+#EXTINF:-1,Real Madrid
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?v=2512977726
-#EXTINF:-1, 1
+#EXTINF:-1,Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1,1
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1, 2
+#EXTINF:-1,2
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:-1, 3
+#EXTINF:-1,3
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1, 4
+#EXTINF:-1,4
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-#EXTINF:-1, 5
+#EXTINF:-1,5
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-#EXTINF:-1, 6
+#EXTINF:-1,6
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-#EXTINF:-1, 7
+#EXTINF:-1,7
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:-1, 12
+#EXTINF:-1,12
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:-1, 21
+#EXTINF:-1,21
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1, 28
+#EXTINF:-1,28
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:-1, 33
+#EXTINF:-1,33
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
