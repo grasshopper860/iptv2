@@ -528,16 +528,6 @@ http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 http://95.170.215.107/hls/m3u8/KSA-Sport1-Bakup.m3u8
 #EXTINF:-1 group-title="Sports",KSA-Sport
 http://95.170.215.107/hls/m3u8/KSA-Sport1-Bakup.m3u8
-#EXTINF:-1,Al Jazeera
-http://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1,Al Jazeera News FHD
-http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
-#EXTINF:-1,Al Jazeera News FHD (1+)
-https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index5000.m3u8
-#EXTINF:-1,Al Jazeera News HD
-http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index2073.m3u8
-#EXTINF:-1,Al Jazeera News HD (1+)
-https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index2073.m3u8
 #EXTINF:-1 group-title="Aljazeera",Aljazeera
 https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index5000.m3u8
 #EXTINF:-1 group-title="News",Aljazeera (Backup)
@@ -970,7 +960,7 @@ http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 http://95.170.215.109/hls/m3u8/Majid-Backup.m3u8
 #EXTINF:-1 group-title="Kids",Karameesh
 http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
-#EXTINF:-1 group-title="Sport",Real Madrid
+#EXTINF:-1 group-title="Sports",Real Madrid
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?v=2512977726
 #EXTINF:-1 group-title="World News",France24-Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
@@ -986,7 +976,7 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 http://95.170.215.107:80/hls/BBCArabic-Backup-M.m3u8
 #EXTINF:-1 group-title="News",Al Araby HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="ٌReligion",Al Kawthar TV
+#EXTINF:-1 group-title="ٌReligion",Alkawthar TV
 http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
 #EXTINF:-1 group-title="Religion",Muslim Channel TV (RU)
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1//chunklist.m3u8
