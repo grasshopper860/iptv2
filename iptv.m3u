@@ -397,11 +397,19 @@ http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:-1 group-title="MBC",MBC 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:-1 group-title="Saudi arabia",MBC 1 (Backup)
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:-1 group-title="MBC",MBC 1 (Backup)
 http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",MBC 1 (Backup)
 http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
+#EXTINF:-1 group-title="MBC",MBC 1 (Backup)
+http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
 #EXTINF:-1 group-title="Saudi arabia",MBC 1 (Backup)
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NzMzNDI3MCwiaWF0IjoxNTg3Mjk4MjcwLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzFrc2EtcHJvZC5zaGFoaWQubmV0L21iYzFrc2EtcHJvZC5tM3U4P2ZpbHRlcj0xNDRfNzIwIn0.c4xdP8QvnUB1fObGdfMKEl5Qfv5-lhBIZ6jYEKMFESY
+#EXTINF:-1 group-title="MBC",MBC 1 (Backup)
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NzMzNDI3MCwiaWF0IjoxNTg3Mjk4MjcwLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzFrc2EtcHJvZC5zaGFoaWQubmV0L21iYzFrc2EtcHJvZC5tM3U4P2ZpbHRlcj0xNDRfNzIwIn0.c4xdP8QvnUB1fObGdfMKEl5Qfv5-lhBIZ6jYEKMFESY
 #EXTINF:-1 group-title="Saudi arabia",MBC 2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
@@ -530,7 +538,7 @@ https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arab
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index2073.m3u8
 #EXTINF:-1,Al Jazeera News HD (1+)
 https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index2073.m3u8
-#EXTINF:-1 group-title="Aljazeera",Aljazeera (Backup)
+#EXTINF:-1 group-title="Aljazeera",Aljazeera
 https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index5000.m3u8
 #EXTINF:-1 group-title="News",Aljazeera (Backup)
 https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index5000.m3u8
