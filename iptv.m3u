@@ -169,7 +169,7 @@ http://82.137.248.16:1935/Sat/stream31122019/chunklist.m3u8
 http://82.137.248.16:1935/Nour/stream31122019/chunklist_w2094128534.m3u8
 #EXTINF:-1 group-title="Syria",Syria Edu
 http://82.137.248.16:1935/SEdu/stream31122019/chunklist_w1166205631.m3u8
-#EXTINF:-1 group-title="Educationional",Syria Edu
+#EXTINF:-1 group-title="Educational",Syria Edu
 http://82.137.248.16:1935/SEdu/stream31122019/chunklist_w1166205631.m3u8
 #EXTINF:-1 group-title="Syria",Syria Drama
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
