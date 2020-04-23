@@ -435,43 +435,43 @@ http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Ayaat
 http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
-#EXTINF:-1 group-title="Religion",Ayaat
+#EXTINF:-1 group-title="Islamic",Ayaat
 http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Ayaat (Backup)
 http://m.live.net.sa:1935/live/ayat/playlist.m3u8
-#EXTINF:-1 group-title="Religion",Ayaat (Backup)
+#EXTINF:-1 group-title="Islamic",Ayaat (Backup)
 http://m.live.net.sa:1935/live/ayat/playlist.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Quran TV
 http://m.live.net.sa:1935/live/quran/chunklist_w232396531.m3u8?v=2957056943
-#EXTINF:-1 group-title="Religion",Quran TV
+#EXTINF:-1 group-title="Islamic",Quran TV
 http://m.live.net.sa:1935/live/quran/chunklist_w232396531.m3u8?v=2957056943
 #EXTINF:-1 group-title="Saudi arabia",Quran TV (Backup)
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-#EXTINF:-1 group-title="Religion",Quran TV (Backup)
+#EXTINF:-1 group-title="Islamic",Quran TV (Backup)
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Alledged Prophet sayings
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
-#EXTINF:-1 group-title="Religion",Alledged Prophet sayings
+#EXTINF:-1 group-title="Islamic",Alledged Prophet sayings
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Alledged Prophet sayings (Backup)
 http://m.live.net.sa:1935/live/sunnah/chunklist_w788649758.m3u8?v=2957056943
-#EXTINF:-1 group-title="Religion",Alledged Prophet sayings (Backup)
+#EXTINF:-1 group-title="Islamic",Alledged Prophet sayings (Backup)
 http://m.live.net.sa:1935/live/sunnah/chunklist_w788649758.m3u8?v=2957056943
 #EXTINF:-1 group-title="Saudi arabia",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-#EXTINF:-1 group-title="Religion",Iqraa
+#EXTINF:-1 group-title="Islamic",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Iqraa Europe
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8?
-#EXTINF:-1 group-title="General",Iqraa Europe
+#EXTINF:-1 group-title="Islamic",Iqraa Europe
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8?
 #EXTINF:-1 group-title="Saudi arabia",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="Religion",Makkah TV
+#EXTINF:-1 group-title="Islamic",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Alresalah
 http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
-#EXTINF:-1 group-title="Religion",Alresalah
+#EXTINF:-1 group-title="Islamic",Alresalah
 http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Aloula Alsaudia
 https://cllive.itworkscdn.net/ksa1live/token=nva=1587310403~dirs=1~hash=010e5fe123dfd8734b5d1/ksa1.smil/ksa1_720p_chunks.m3u8
@@ -535,7 +535,7 @@ https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8?filter=144_720&token=ey
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NzMzNDI3MCwiaWF0IjoxNTg3Mjk4MjcwLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzFrc2EtcHJvZC5zaGFoaWQubmV0L21iYzFrc2EtcHJvZC5tM3U4P2ZpbHRlcj0xNDRfNzIwIn0.c4xdP8QvnUB1fObGdfMKEl5Qfv5-lhBIZ6jYEKMFESY
 #EXTINF:-1 group-title="Saudi arabia",MBC 2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1 group-title="General",MBC 2
+#EXTINF:-1 group-title="Movies",MBC 2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
 #EXTINF:-1 group-title="Saudi arabia",MBC 2 (Backup)
 http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
@@ -638,11 +638,11 @@ http://live.noorlive.com:1935/wesal/wesal1/chunklist_w470755724.m3u8?v=295705694
 http://live.noorlive.com:1935/wesal/wesal1/chunklist_w470755724.m3u8?v=2957056943
 #EXTINF:-1 group-title="Saudi arabia",Nobile TV
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w208423711.m3u8?v=2957056943
-#EXTINF:-1 group-title="Religion",Nobile TV
+#EXTINF:-1 group-title="Islamic",Nobile TV
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w208423711.m3u8?v=2957056943
 #EXTINF:-1 group-title="Saudi arabia",Maka TV
 https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w2097348824.m3u8?v=2957056943
-#EXTINF:-1 group-title="Religion",Maka TV
+#EXTINF:-1 group-title="Islamic",Maka TV
 https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w2097348824.m3u8?v=2957056943
 #EXTINF:-1 group-title="Saudi arabia",Baeti
 http://82.212.74.99:8000/live/hls/8164.m3u8?v=2957056943&tokenekot=ceAYRa9063RoqVhkBrnu
@@ -742,7 +742,7 @@ http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_500330.m3u8
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_500330.m3u8
 #EXTINF:-1 group-title="Qatar",Alrayyan TV
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8
-#EXTINF:-1 group-title="Religion",Alrayyan TV
+#EXTINF:-1 group-title="Islamic",Alrayyan TV
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8
 #EXTINF:-1 group-title="Qatar",Alrayyan alkadeem
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8
@@ -980,7 +980,7 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8?v=2957056943
 #EXTINF:-1 group-title="Kuwait",Alkuwait Plus Movies
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8?v=2957056943
-#EXTINF:-1 group-title="General",Alkuwait Plus Movies
+#EXTINF:-1 group-title="Aflam",Alkuwait Plus Movies
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8?v=2957056943
 #EXTINF:-1 group-title="Kuwait",Alkuwait Aloula
 https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8?v=2957056943
@@ -1016,11 +1016,11 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportspl
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8?v=2957056943
 #EXTINF:-1 group-title="Kuwait",Alresala TV
 http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
-#EXTINF:-1 group-title="Religion",Alresala TV
+#EXTINF:-1 group-title="Islamic",Alresala TV
 http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
 #EXTINF:-1 group-title="Bahrain",Albahrain Quran
 http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?v=2992052339
-#EXTINF:-1 group-title="Religion",Albahrain Quran
+#EXTINF:-1 group-title="Islamic",Albahrain Quran
 http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?v=2992052339
 #EXTINF:-1 group-title="Bahrain",Albahrain TV
 http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?v=3116400149
@@ -1108,7 +1108,7 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Oman",Alestekama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:-1 group-title="Religion",Alestekama TV
+#EXTINF:-1 group-title="Islamic",Alestekama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:-1 group-title="Yemen",Balqees TV
 http://playback2.akamaized.net/streams/12233888_3819374_lsinv0pgv6oxeinlvsw_1/exp=1587394260~acl=%2f*~data=hdntl~hmac=65d6c2bc5a37c008cd3d6eca20592eaf789ce6b186570f6219c658c5bba5d98c/media/12233888_3819374_lsinv0pgv6oxeinlvsw_1@2128000pb.m3u8?dw=80&ts=1587304800
@@ -1156,13 +1156,15 @@ http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 #EXTINF:-1 group-title="News",218 News HD
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Religion",ABN
+#EXTINF:-1 group-title="Christian",ABN
 http://rtmp1.abnsat.com/hls/arabic.m3u8
-#EXTINF:-1 tvg-logo="http://en.elbesharagtv.com/uploads/7/9/0/0/79001918/300x169_3_orig.png" group-title="Religion",Elbeshara Tv
+#EXTINF:-1 tvg-logo="http://en.elbesharagtv.com/uploads/7/9/0/0/79001918/300x169_3_orig.png" group-title="Christian",Elbeshara Tv
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/chunklist_w783296947_b1400000_slar_t64SEQ=.m3u8
 #EXTINF:-1 group-title="News",Sky News (EN)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 group-title="Star",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1 group-title="Movies",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 #EXTINF:-1 group-title="Star",Star World HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
@@ -1216,7 +1218,7 @@ http://95.170.215.107:80/hls/BBCArabic-Backup-M.m3u8
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ٌReligion",Alkawthar TV
 http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
-#EXTINF:-1 group-title="Religion",Muslim Channel TV (RU)
+#EXTINF:-1 group-title="Islamic",Muslim Channel TV (RU)
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1//chunklist.m3u8
 #EXTINF:-1 group-title="Extra 1",Canadian Arab TV (Canada)
 http://192.226.228.32:8080/hls/catv/index.m3u8
