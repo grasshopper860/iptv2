@@ -29,7 +29,11 @@ http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8
 #EXTINF:-1 group-title="Palestine",Al Fajer 2 HD
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 group-title="Aflam",Al Fajer 2 HD
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Al Fajer 2 HD
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 group-title="Series",Al Fajer 2 HD
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 group-title="Palestine",Al Fajer 2 HD (Backup)
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
@@ -229,7 +233,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunk
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
 #EXTINF:-1 group-title="Syria",Syria News
 http://82.137.248.16:1935/Snews/stream31122019/chunklist_w1000136614.m3u8
-#EXTINF:-1 group-title="General",Syria News
+#EXTINF:-1 group-title="News",Syria News
 http://82.137.248.16:1935/Snews/stream31122019/chunklist_w1000136614.m3u8
 #EXTINF:-1 group-title="Syria",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
@@ -612,6 +616,7 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 #EXTINF:-1 group-title="Series",MBC Masr
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",MBC Masr (Backup)
+https://shls-masr-prod.shahid.net/masr-prod_2.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NzMzNDk3NywiaWF0IjoxNTg3Mjk4OTc3LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1hc3ItcHJvZC5zaGFoaWQubmV0L21hc3ItcHJvZC5tM3U4P2ZpbHRlcj0xNDRfNzIwIn0.evHQnqExZu3X6zhH913f_9P5qHoXtlPZUs-dalkhDxI
 #EXTINF:-1 group-title="MBC",MBC Masr (Backup)
 https://shls-masr-prod.shahid.net/masr-prod_2.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NzMzNDk3NywiaWF0IjoxNTg3Mjk4OTc3LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1hc3ItcHJvZC5zaGFoaWQubmV0L21hc3ItcHJvZC5tM3U4P2ZpbHRlcj0xNDRfNzIwIn0.evHQnqExZu3X6zhH913f_9P5qHoXtlPZUs-dalkhDxI
 #EXTINF:-1 group-title="Series",MBC Masr (Backup)
@@ -1142,7 +1147,11 @@ http://46.60.1.82:8081/live/hdmib2/chunks.m3u8?nimblesessionid=18198983&v=freeda
 http://46.60.1.82:8081/live/hdmib3/chunks.m3u8
 #EXTINF:-1 group-title="Sports",Bein Sports News
 http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
+#EXTINF:-1 group-title="News",Bein Sports News
+http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Bein Sports News (Backup)
+http://46.60.1.82:8081/live/hdmib2/chunks.m3u8?nimblesessionid=18198983&v=freedaily
+#EXTINF:-1 group-title="News",Bein Sports News (Backup)
 http://46.60.1.82:8081/live/hdmib2/chunks.m3u8?nimblesessionid=18198983&v=freedaily
 #EXTINF:-1 group-title="Sports",beiN Sports 1 HD
 http://46.60.1.82:8081/live/hdmib3/chunks.m3u8
@@ -1160,7 +1169,7 @@ http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 http://rtmp1.abnsat.com/hls/arabic.m3u8
 #EXTINF:-1 tvg-logo="http://en.elbesharagtv.com/uploads/7/9/0/0/79001918/300x169_3_orig.png" group-title="Christian",Elbeshara Tv
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/chunklist_w783296947_b1400000_slar_t64SEQ=.m3u8
-#EXTINF:-1 group-title="News",Sky News (EN)
+#EXTINF:-1 group-title="World News",Sky News (EN)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 group-title="Star",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
@@ -1216,7 +1225,9 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 http://95.170.215.107:80/hls/BBCArabic-Backup-M.m3u8
 #EXTINF:-1 group-title="News",Al Araby HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="ٌReligion",Alkawthar TV
+#EXTINF:-1 group-title="ٌIslamic",Alkawthar TV
+http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
+#EXTINF:-1 group-title="ٌGeneral",Alkawthar TV
 http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
 #EXTINF:-1 group-title="Islamic",Muslim Channel TV (RU)
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1//chunklist.m3u8
