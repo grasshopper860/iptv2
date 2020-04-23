@@ -13,9 +13,9 @@ http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
 http://4tfgufj-lh.akamaihd.net/i/4tfgufj2owx9ga_1@793108/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="General",Palestine TV (Backup)
 http://4tfgufj-lh.akamaihd.net/i/4tfgufj2owx9ga_1@793108/index_2000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Palestine",Palestine Live
+#EXTINF:-1 group-title="Palestine" tvg-logo="https://i.imgur.com/bYz6HUG.png",Palestine Live
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="News",Palestine Live
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/bYz6HUG.png",Palestine Live
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Palestine",Al-Aqsa
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1777513811.m3u8
