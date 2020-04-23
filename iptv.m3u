@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1,===Palestine===
 #EXTINF:-1 group-title="Palestine",Palestine Today
 http://live.paltoday.tv:1935/paltv/live/playlist.m3u8
 #EXTINF:-1 group-title="News",Palestine Today
@@ -87,6 +88,7 @@ http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
 http://htvmada.mada.ps:8888/wattan/index.m3u8
 #EXTINF:-1 group-title="General",Wattan TV
 http://htvmada.mada.ps:8888/wattan/index.m3u8
+#EXTINF:-1,===Jordan===
 #EXTINF:-1 group-title="Jordan",Almamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 #EXTINF:-1 group-title="News",Almamlaka TV
@@ -141,6 +143,7 @@ http://95.170.215.109/hls/m3u8/TOYOR-B-Backup.m3u8
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master_1280x720_5000k.m3u8
 #EXTINF:-1 group-title="General",Amman TV
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master_1280x720_5000k.m3u8
+#EXTINF:-1,===Lebanon===
 #EXTINF:-1 group-title="Lebanon",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
 #EXTINF:-1 group-title="General",Future TV
@@ -229,6 +232,7 @@ http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t6
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/38ad46d994b30fa6aed632fc597ca329.sdp/chunks.m3u8
 #EXTINF:-1 group-title="General",Lebanon TV
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/38ad46d994b30fa6aed632fc597ca329.sdp/chunks.m3u8
+#EXTINF:-1,===Syria===
 #EXTINF:-1 group-title="Syria",Syria Live
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
 #EXTINF:-1 group-title="General",Syria Live
@@ -315,6 +319,7 @@ http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/02.m3u8
 #EXTINF:-1 group-title="Kids",Spacetoon (Backup)
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/02.m3u8
+#EXTINF:-1,===Egypt===
 #EXTINF:-1 group-title="Egypt",Wattan Masr TV
 http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:-1 group-title="General",Wattan Masr TV
@@ -441,6 +446,7 @@ http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist_b2000000_t64NzIwcA==
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 #EXTINF:-1 group-title="General",Cairo and People
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
+#EXTINF:-1,===Saudi arabia===
 #EXTINF:-1 group-title="Saudi arabia",Ayaat
 http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
 #EXTINF:-1 group-title="Islamic",Ayaat
@@ -691,6 +697,7 @@ http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 http://95.170.215.107/hls/m3u8/KSA-Sport1-Bakup.m3u8
 #EXTINF:-1 group-title="Sports",KSA-Sport
 http://95.170.215.107/hls/m3u8/KSA-Sport1-Bakup.m3u8
+#EXTINF:-1,===Qatar===
 #EXTINF:-1 group-title="Qatar",Aljazeera
 https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index5000.m3u8
 #EXTINF:-1 group-title="Aljazeera",Aljazeera
@@ -799,6 +806,7 @@ http://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Zpgdua/master570.m3u8
 http://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinespfwGsd/master570.m3u8
 #EXTINF:-1 group-title="Sports",AlKass Online
 http://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinespfwGsd/master570.m3u8
+#EXTINF:-1,===United Emirates===
 #EXTINF:-1 group-title="United Emirates",Alarabia
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
 #EXTINF:-1 group-title="News",Alarabia
@@ -889,6 +897,14 @@ http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Sports",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="United Emirates",DUBAI RACING (Backup)
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports",DUBAI RACING (Backup)
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+EXTINF:-1 group-title="United Emirates",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
+EXTINF:-1 group-title="Sports",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="United Emirates",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="News",Dubai One
@@ -949,14 +965,6 @@ http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="General",Dubai TV (Backup)
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream/chunklist_b2000000.m3u8
-#EXTINF:-1,DUBAI RACING 1 HD
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,DUBAI RACING 2 HD
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,DUBAI RACING 2 HD (1+)
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Dubai Sports 1 HD
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="United Emirates",National Geography
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Documentaries",National Geography
@@ -995,6 +1003,7 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
 #EXTINF:-1 group-title="Islamic",AlWousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
+#EXTINF:-1,===Kuwait===
 #EXTINF:-1 group-title="Kuwait",AlRai TV
 https://stream02.fasttelco.net/live/alrai.stream/chunklist_w498917617.m3u8
 #EXTINF:-1 group-title="General",AlRai TV
@@ -1049,8 +1058,7 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportspl
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Kuwait",Alresala TV
 http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
-#EXTINF:-1 group-title="Islamic",Alresala TV
-http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
+#EXTINF:-1,===Bahrain===
 #EXTINF:-1 group-title="Bahrain",Albahrain Quran
 http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
 #EXTINF:-1 group-title="Islamic",Albahrain Quran
@@ -1075,6 +1083,7 @@ http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1 group-title="General",Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+#EXTINF:-1,===Iraq===
 #EXTINF:-1 group-title="Iraq",Dijlah TV
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",Dijlah TV
@@ -1119,6 +1128,7 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 http://streamer11.elementssys.com:8080/alrashid/alrashid_650kbps/index.m3u8
 #EXTINF:-1 group-title="General",Alrasheed (Backup)
 http://streamer11.elementssys.com:8080/alrashid/alrashid_650kbps/index.m3u8
+#EXTINF:-1,===Oman===
 #EXTINF:-1 group-title="Oman",Oman TV
 http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="General",Oman TV
@@ -1145,6 +1155,7 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:-1 group-title="Islamic",Alestekama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+#EXTINF:-1,===Yemen===
 #EXTINF:-1 group-title="Yemen",Balqees TV
 http://playback2.akamaized.net/streams/12233888_3819374_lsinv0pgv6oxeinlvsw_1/exp=1587394260~acl=%2f*~data=hdntl~hmac=65d6c2bc5a37c008cd3d6eca20592eaf789ce6b186570f6219c658c5bba5d98c/media/12233888_3819374_lsinv0pgv6oxeinlvsw_1@2128000pb.m3u8?dw=80&ts=1587304800
 #EXTINF:-1 group-title="General",Balqees TV
@@ -1197,7 +1208,7 @@ http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Christian",ABN
 http://rtmp1.abnsat.com/hls/arabic.m3u8
-#EXTINF:-1 group-title="ٌGeneral",Alkawthar TV
+#EXTINF:-1 group-title="General",Alkawthar TV
 http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
 #EXTINF:-1 group-title="Islamic",Alkawthar TV
 http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
