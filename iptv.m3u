@@ -16,9 +16,9 @@ http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",Palestine Live
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Palestine",Al-Aqsa
-https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1777513811.m3u8?v=1581848814
+https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1777513811.m3u8
 #EXTINF:-1 group-title="News",Al-Aqsa
-https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1777513811.m3u8?v=1581848814
+https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1777513811.m3u8
 #EXTINF:-1 group-title="Palestine",Maan News
 http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",Maan News
@@ -64,57 +64,59 @@ http://htvmada.mada.ps:8888/raya/playlist.m3u8
 #EXTINF:-1 group-title="News",Raya TV
 http://htvmada.mada.ps:8888/raya/playlist.m3u8
 #EXTINF:-1 group-title="Palestine",Raya TV (Backup)
-http://vstreamgz.hadara.ps:8081/RayaHD_web/web/chunks.m3u8?v=86757236
+http://vstreamgz.hadara.ps:8081/RayaHD_web/web/chunks.m3u8
 #EXTINF:-1 group-title="News",Raya TV (Backup)
-http://vstreamgz.hadara.ps:8081/RayaHD_web/web/chunks.m3u8?v=86757236
+http://vstreamgz.hadara.ps:8081/RayaHD_web/web/chunks.m3u8
 #EXTINF:-1 group-title="Palestine",Freedom TV
-http://vstream3.hadara.ps:8081/hrHD_web/web/playlist.m3u8?v=86757236
+http://vstream3.hadara.ps:8081/hrHD_web/web/playlist.m3u8
 #EXTINF:-1 group-title="General",Freedom TV
-http://vstream3.hadara.ps:8081/hrHD_web/web/playlist.m3u8?v=86757236
+http://vstream3.hadara.ps:8081/hrHD_web/web/playlist.m3u8
 #EXTINF:-1 group-title="Palestine",Watar TV
-http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8?v=86757236
+http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",Watar TV
-http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8?v=86757236
+http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Palestine",Almahd TV
-http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8?v=86757236
+http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8
 #EXTINF:-1 group-title="General",Almahd TV
-http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8?v=86757236
+http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8
 #EXTINF:-1 group-title="Palestine",Kol Elnas
-http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8?v=86757236
+http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General",Kol Elnas
-http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8?v=86757236
+http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Palestine",Wattan TV
-http://htvmada.mada.ps:8888/wattan/index.m3u8?v=86757236
+http://htvmada.mada.ps:8888/wattan/index.m3u8
 #EXTINF:-1 group-title="General",Wattan TV
-http://htvmada.mada.ps:8888/wattan/index.m3u8?v=86757236
+http://htvmada.mada.ps:8888/wattan/index.m3u8
 #EXTINF:-1 group-title="Jordan",Almamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 #EXTINF:-1 group-title="News",Almamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 #EXTINF:-1 group-title="Jordan",Jordan TV
-http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist_w2045323756.m3u8?v=2957056943
+http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist_w2045323756.m3u8
 #EXTINF:-1 group-title="General",Jordan TV
-http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist_w2045323756.m3u8?v=2957056943
+http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist_w2045323756.m3u8
 #EXTINF:-1 group-title="Jordan",Jordan TV (Backup)
 http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
 #EXTINF:-1 group-title="General",Jordan TV (Backup)
 http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
 #EXTINF:-1 group-title="Jordan",Jordan Mathmatics
-http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w805154224.m3u8?v=2957056943
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w805154224.m3u8
 #EXTINF:-1 group-title="Educational",Jordan Mathmatics
-http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w805154224.m3u8?v=2957056943
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w805154224.m3u8
+#EXTINF:-1 group-title="Educational",Jordan Sports
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w805154224.m3u8
 #EXTINF:-1 group-title="Jordan",Jordanian Kingdom TV
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 #EXTINF:-1 group-title="General",Jordanian Kingdom TV
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 #EXTINF:-1 group-title="Jordan",Jordan today
-http://185.27.116.54:1935/livestream/amn/chunklist_w1658250132.m3u8?v=2957056943
+http://185.27.116.54:1935/livestream/amn/chunklist_w1658250132.m3u8
 #EXTINF:-1 group-title="News",Jordan today
-http://185.27.116.54:1935/livestream/amn/chunklist_w1658250132.m3u8?v=2957056943
+http://185.27.116.54:1935/livestream/amn/chunklist_w1658250132.m3u8
 #EXTINF:-1 group-title="Jordan",Roya TV
-http://roya-live.ercdn.net/roya/roya_1080p.m3u8?v=2957056943
+http://roya-live.ercdn.net/roya/roya_1080p.m3u8
 #EXTINF:-1 group-title="General",Roya TV
-http://roya-live.ercdn.net/roya/roya_1080p.m3u8?v=2957056943
+http://roya-live.ercdn.net/roya/roya_1080p.m3u8
 #EXTINF:-1 group-title="Jordan",Roya TV (Backup)
 http://roya-live.ercdn.net/roya/roya_720p.m3u8
 #EXTINF:-1 group-title="General",Roya TV (Backup)
@@ -160,9 +162,9 @@ http://manar.live/iptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",AlManar TV
 http://manar.live/iptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Lebanon",AlManar TV (Backup)
-https://manar.live/iptv/chunklist_w715324590_b500000.m3u8?v=2957056943
+https://manar.live/iptv/chunklist_w715324590_b500000.m3u8
 #EXTINF:-1 group-title="News",AlManar TV (Backup)
-https://manar.live/iptv/chunklist_w715324590_b500000.m3u8?v=2957056943
+https://manar.live/iptv/chunklist_w715324590_b500000.m3u8
 #EXTINF:-1 group-title="Lebanon",MTV
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
 #EXTINF:-1 group-title="General",MTV
@@ -224,9 +226,9 @@ http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t6
 #EXTINF:-1 group-title="General",AlMayadeen TV (Backup)
 http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
 #EXTINF:-1 group-title="Lebanon",Lebanon TV
-http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/38ad46d994b30fa6aed632fc597ca329.sdp/chunks.m3u8?v=2957056943
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/38ad46d994b30fa6aed632fc597ca329.sdp/chunks.m3u8
 #EXTINF:-1 group-title="General",Lebanon TV
-http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/38ad46d994b30fa6aed632fc597ca329.sdp/chunks.m3u8?v=2957056943
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/38ad46d994b30fa6aed632fc597ca329.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Syria",Syria Live
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
 #EXTINF:-1 group-title="General",Syria Live
@@ -274,17 +276,17 @@ https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_720p_chunks.m3u8
 #EXTINF:-1 group-title="Sports",Sama Syria (Backup)
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
 #EXTINF:-1 group-title="Syria",Halab Alyawm
-http://streaming.tootvs.com:1935/8010/8010/chunklist_w1747844018.m3u8?v=2957056943
+http://streaming.tootvs.com:1935/8010/8010/chunklist_w1747844018.m3u8
 #EXTINF:-1 group-title="General",Halab Alyawm
-http://streaming.tootvs.com:1935/8010/8010/chunklist_w1747844018.m3u8?v=2957056943
+http://streaming.tootvs.com:1935/8010/8010/chunklist_w1747844018.m3u8
 #EXTINF:-1 group-title="Syria",Orient TV
 http://livecdnh1.tvanywhere.ae/hls/orient/04.m3u8
 #EXTINF:-1 group-title="General",Orient TV
 http://livecdnh1.tvanywhere.ae/hls/orient/04.m3u8
 #EXTINF:-1 group-title="Syria",9th Channel
-https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w484384965_b1392000_slAR.m3u8?v=2957056943
+https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w484384965_b1392000_slAR.m3u8
 #EXTINF:-1 group-title="News",9th Channel
-https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w484384965_b1392000_slAR.m3u8?v=2957056943
+https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w484384965_b1392000_slAR.m3u8
 #EXTINF:-1 group-title="Syria",Lana TV
 https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8
 #EXTINF:-1 group-title="Drama",Lana TV
@@ -314,9 +316,9 @@ http://livecdnh2.tvanywhere.ae/hls/spacetoon/02.m3u8
 #EXTINF:-1 group-title="Kids",Spacetoon (Backup)
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/02.m3u8
 #EXTINF:-1 group-title="Egypt",Wattan Masr TV
-http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8?nimblesessionid=187857972&v=787761179
+http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:-1 group-title="General",Wattan Masr TV
-http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8?nimblesessionid=187857972&v=787761179
+http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:-1 group-title="Egypt",Elsharq TV
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 group-title="General",Elsharq TV
@@ -326,9 +328,9 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Egypt",Mekameleen TV (Backup)
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 #EXTINF:-1 group-title="General",Mekameleen TV (Backup)
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 #EXTINF:-1 group-title="Egypt",Alfateh TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
 #EXTINF:-1 group-title="General",Alfateh TV
@@ -339,7 +341,9 @@ https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CqgEnUVgUOxrR5aSFjpx5G5pjke
 https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CqgEnUVgUOxrR5aSFjpx5G5pjkeLZIfmLRVNK3tfxk_VA31la4uNMMg75Otp_80fx3UPMX1OlqCbBZoZQSrPkMN-ZTRuhnHu3MuakH9Vu7c1RTQEOnhJhoTuIucdFYSf2HgJKd5Fa7ISOVxha5zlplqkqxcgZ83OVgmFLwRahoyHNxzuMgvWn6LLVp0EoGiNgDFjxcQWpRD2m19CSeRJ2Nl94cOJNRvFN8b5PkjL74xRFltTUi0Ldxz9waiE8wl5QfYcYxRudDSiZWFrY1vnwe1QLcwlgrHzkE9DCTJuc2PZWLrDNaQpyox6C13EGubpmd4q5NVWbg4qb647ytvRdqf__HSVfGclg34HiEFNIhzVec8vkuu4i9dQ4dTgig1yA5ecKOTRWJI7n9BwVKXMbmyHxFAyzkE7EJwe7OJzx3DhJvfj1KSvj2nQ1bzbwILVy7poVNzIG_ax1vye7oTYPthFaVfEU1CJtgP_lDBwVOtqTObhLelqnKzC9_3yNu5saiFux-7cXqtMdA0CyzwH4O6b0I3z-TgDBKJ09WWT0J-9P2c17-gQIfuqwe2Lw2YiPB4wLJEgr2k9LTIT1kzdB5N4rSoQf_uOnvZoZ5ZnwwzkQV27X25VMY3395M60VhYmEpvdj9lMrT-Gn9yNu_I7zv_r-i3MnoRY3-uzj12dq63BFEruLj4AbFFB4dTegyXpPdgRSRrb8XFS8vIwkkAuyrJSkIld-VAEvy8EhC_808aZRdptM8dR0lGNcg8GgzjEhqbgDSp19L1n_Q.m3u8
 #EXTINF:-1 group-title="Egypt",Nile International
 http://livecdnh2.tvanywhere.ae/hls/nile_tv/04.m3u8
-#EXTINF:-1 group-title="Documentaries",Nile International
+#EXTINF:-1 group-title="General",Nile International
+http://livecdnh2.tvanywhere.ae/hls/nile_tv/04.m3u8
+#EXTINF:-1 group-title="Educational",Nile International
 http://livecdnh2.tvanywhere.ae/hls/nile_tv/04.m3u8
 #EXTINF:-1 group-title="Egypt",Nile Cinema
 http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
@@ -430,9 +434,9 @@ http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
 #EXTINF:-1 group-title="Aflam",Cinema 1
 http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
 #EXTINF:-1 group-title="Egypt",Sada Elbalad
-http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist_b2000000_t64NzIwcA==.m3u8?v=787761179
+http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="General",Sada Elbalad
-http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist_b2000000_t64NzIwcA==.m3u8?v=787761179
+http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="Egypt",Cairo and People
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 #EXTINF:-1 group-title="General",Cairo and People
@@ -446,9 +450,9 @@ http://m.live.net.sa:1935/live/ayat/playlist.m3u8
 #EXTINF:-1 group-title="Islamic",Ayaat (Backup)
 http://m.live.net.sa:1935/live/ayat/playlist.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Quran TV
-http://m.live.net.sa:1935/live/quran/chunklist_w232396531.m3u8?v=2957056943
+http://m.live.net.sa:1935/live/quran/chunklist_w232396531.m3u8
 #EXTINF:-1 group-title="Islamic",Quran TV
-http://m.live.net.sa:1935/live/quran/chunklist_w232396531.m3u8?v=2957056943
+http://m.live.net.sa:1935/live/quran/chunklist_w232396531.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Quran TV (Backup)
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 #EXTINF:-1 group-title="Islamic",Quran TV (Backup)
@@ -458,9 +462,9 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1 group-title="Islamic",Alledged Prophet sayings
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Alledged Prophet sayings (Backup)
-http://m.live.net.sa:1935/live/sunnah/chunklist_w788649758.m3u8?v=2957056943
+http://m.live.net.sa:1935/live/sunnah/chunklist_w788649758.m3u8
 #EXTINF:-1 group-title="Islamic",Alledged Prophet sayings (Backup)
-http://m.live.net.sa:1935/live/sunnah/chunklist_w788649758.m3u8?v=2957056943
+http://m.live.net.sa:1935/live/sunnah/chunklist_w788649758.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 #EXTINF:-1 group-title="Islamic",Iqraa
@@ -486,38 +490,60 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587319075/ei/
 #EXTINF:-1 group-title="General",Alsudia Alekhbaria
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587319075/ei/wzycXpv4A8-W8gO2v5mwDA/ip/176.65.27.175/id/Z7KnNR1K7AI.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/r4---sn-h5q52n-1qhl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2930/mh/A1/mm/44/mn/sn-h5q52n-1qhl/ms/lva/mv/m/mvi/3/pl/23/dover/11/keepalive/yes/mt/1587297436/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wQwIfeAO944dZtiErN0BiCxLcGvimewIgCdxGDo_6ur-XogIgYiiDh61EiIaZDJL772x3ZGT_Q1daL8Kvkr-AZsbFV00%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgQb4IawRrPxa0KhRNvWoom1ZlI5z7DTq0O_-LwF7p2ksCIQC8R6BOQxKgQh_yiAOLMug9biF1oRMSliVUKfWpGO9qIQ%3D%3D/playlist/index.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Rotana Alkhalegia
-https://cllive.itworkscdn.net/rkhalijeanlive/token=nva=1587308755~dirs=1~hash=0670c7b495d383ad93265/rkhalijean/chunks.m3u8
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Alkhalegia
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 #EXTINF:-1 group-title="General",Rotana Alkhalegia
-https://cllive.itworkscdn.net/rkhalijeanlive/token=nva=1587308755~dirs=1~hash=0670c7b495d383ad93265/rkhalijean/chunks.m3u8
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Rotana Alkhalegia (Backup)
-http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+https://cllive.itworkscdn.net/rkhalijeanlive/token=nva=1587308755~dirs=1~hash=0670c7b495d383ad93265/rkhalijean/chunks.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Alkhalegia (Backup)
+https://cllive.itworkscdn.net/rkhalijeanlive/token=nva=1587308755~dirs=1~hash=0670c7b495d383ad93265/rkhalijean/chunks.m3u8
 #EXTINF:-1 group-title="General",Rotana Alkhalegia (Backup)
-http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+https://cllive.itworkscdn.net/rkhalijeanlive/token=nva=1587308755~dirs=1~hash=0670c7b495d383ad93265/rkhalijean/chunks.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Rotana Cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Cinema
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
 #EXTINF:-1 group-title="Aflam",Rotana Cinema
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Rotana Aflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Aflam
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
 #EXTINF:-1 group-title="Aflam",Rotana Aflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Rotana Drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Drama
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
 #EXTINF:-1 group-title="Drama",Rotana Drama
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Rotana Drama (Backup)
 http://livecdnh3.tvanywhere.ae/hls/rotmas/01.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Drama (Backup)
+http://livecdnh3.tvanywhere.ae/hls/rotmas/01.m3u8
 #EXTINF:-1 group-title="Drama",Rotana Drama (Backup)
+http://livecdnh3.tvanywhere.ae/hls/rotmas/01.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Drama (Backup)
 http://livecdnh3.tvanywhere.ae/hls/rotmas/01.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Rotana Classic
 http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
 #EXTINF:-1 group-title="Aflam",Rotana Classic (Backup)
 http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Classic (Backup)
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Rotana Clip
+http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Clip
 http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
 #EXTINF:-1 group-title="General",Rotana Clip
 http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Rotana Music
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Music
 http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
 #EXTINF:-1 group-title="General",Rotana Music
 http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
@@ -638,21 +664,21 @@ https://shls-iraq-prod.shahid.net/iraq-prod_3.m3u8?filter=144_720&token=eyJ0eXAi
 #EXTINF:-1 group-title="Series",MBC Iraq (Backup)
 https://shls-iraq-prod.shahid.net/iraq-prod_3.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NzMzNTA0OCwiaWF0IjoxNTg3Mjk5MDQ4LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLWlyYXEtcHJvZC5zaGFoaWQubmV0L2lyYXEtcHJvZC5tM3U4P2ZpbHRlcj0xNDRfNzIwIn0.xOd8AaHvxAEc4VTZ-q2-bkHw5ZRW17IhsLByqzSC0R4
 #EXTINF:-1 group-title="Saudi arabia",Wesal TV
-http://live.noorlive.com:1935/wesal/wesal1/chunklist_w470755724.m3u8?v=2957056943
+http://live.noorlive.com:1935/wesal/wesal1/chunklist_w470755724.m3u8
 #EXTINF:-1 group-title="General",Wesal TV
-http://live.noorlive.com:1935/wesal/wesal1/chunklist_w470755724.m3u8?v=2957056943
+http://live.noorlive.com:1935/wesal/wesal1/chunklist_w470755724.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Nobile TV
-https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w208423711.m3u8?v=2957056943
+https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w208423711.m3u8
 #EXTINF:-1 group-title="Islamic",Nobile TV
-https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w208423711.m3u8?v=2957056943
+https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w208423711.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Maka TV
-https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w2097348824.m3u8?v=2957056943
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w2097348824.m3u8
 #EXTINF:-1 group-title="Islamic",Maka TV
-https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w2097348824.m3u8?v=2957056943
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w2097348824.m3u8
 #EXTINF:-1 group-title="Saudi arabia",Baeti
-http://82.212.74.99:8000/live/hls/8164.m3u8?v=2957056943&tokenekot=ceAYRa9063RoqVhkBrnu
+http://82.212.74.99:8000/live/hls/8164.m3u8
 #EXTINF:-1 group-title="General",Baeti
-http://82.212.74.99:8000/live/hls/8164.m3u8?v=2957056943&tokenekot=ceAYRa9063RoqVhkBrnu
+http://82.212.74.99:8000/live/hls/8164.m3u8
 #EXTINF:-1 group-title="Saudi arabia",SBC
 https://cllive.itworkscdn.net/sbclive/token=nva=1587314807~dirs=1~hash=0fe3fbbd891f70cb7479d/sbc.smil/sbc_720p_chunks.m3u8
 #EXTINF:-1 group-title="General",SBC
@@ -674,18 +700,14 @@ https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arab
 #EXTINF:-1 group-title="Aljazeera",Aljazeera (Backup)
 http://live-hls-web-aja.getaj.net/AJA/04.m3u8
 #EXTINF:-1 group-title="Qatar",Aljazeera (Backup)
-http://live-hls-web-aja.getaj.net/AJA/04.m3u8	
+http://live-hls-web-aja.getaj.net/AJA/04.m3u8
 #EXTINF:-1 group-title="News",Aljazeera (Backup)
-http://live-hls-web-aja.getaj.net/AJA/04.m3u8	
+http://live-hls-web-aja.getaj.net/AJA/04.m3u8
 #EXTINF:-1 group-title="Aljazeera",Aljazeera (Backup)
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 group-title="Qatar",Aljazeera (Backup)
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 group-title="News",Aljazeera English
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587325051/ei/G1ScXvn-FcangAe7lZzAAQ/ip/176.65.27.175/id/WisZM9CMlTo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-h5q52n-1qhl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2810/mh/Gn/mm/44/mn/sn-h5q52n-1qhl/ms/lva/mv/m/mvi/2/pl/23/dover/11/keepalive/yes/fexp/23882513/mt/1587303379/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIge_AVaNdiEzk4eLCr0BDQhUZ047qF_XUrJ4-eLAR_3hgCIQDMXZPB7b2Wg3zNMlERE_NqZm_ITYS0uPfZuOCfafndhA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgIoRpvOqxVrWtBL2Cm4HxwBDlV9CVGGTfYxXBQD5VdXkCICQFT-LnGqJpgMU4AbNBnpo47Z_s5Yt6nDroXHcWo1B7/playlist/index.m3u8 
-#EXTINF:-1 group-title="Aljazeera",Aljazeera English
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587325051/ei/G1ScXvn-FcangAe7lZzAAQ/ip/176.65.27.175/id/WisZM9CMlTo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-h5q52n-1qhl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2810/mh/Gn/mm/44/mn/sn-h5q52n-1qhl/ms/lva/mv/m/mvi/2/pl/23/dover/11/keepalive/yes/fexp/23882513/mt/1587303379/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIge_AVaNdiEzk4eLCr0BDQhUZ047qF_XUrJ4-eLAR_3hgCIQDMXZPB7b2Wg3zNMlERE_NqZm_ITYS0uPfZuOCfafndhA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgIoRpvOqxVrWtBL2Cm4HxwBDlV9CVGGTfYxXBQD5VdXkCICQFT-LnGqJpgMU4AbNBnpo47Z_s5Yt6nDroXHcWo1B7/playlist/index.m3u8 
-#EXTINF:-1 group-title="Qatar",Aljazeera English (Backup)
+#EXTINF:-1 group-title="Qatar",Aljazeera English
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="News",Aljazeera English (Backup)
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -778,17 +800,17 @@ http://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinespfwGsd/master570.m3
 #EXTINF:-1 group-title="Sports",AlKass Online
 http://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinespfwGsd/master570.m3u8
 #EXTINF:-1 group-title="United Emirates",Alarabia
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8?v=2957056943
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
 #EXTINF:-1 group-title="News",Alarabia
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8?v=2957056943
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
 #EXTINF:-1 group-title="United Emirates",Alarabia (Backup)
 https://shls-alarabiya-prod.shahid.net/alarabiya-prod_3.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NzMzOTcwNSwiaWF0IjoxNTg3MzAzNzA1LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLWFsYXJhYml5YS1wcm9kLnNoYWhpZC5uZXQvYWxhcmFiaXlhLXByb2QubTN1OD9maWx0ZXI9MTQ0XzcyMCJ9.xWMaRsATcaljZuwcvgSgEWJ_FetV4SScVXNEBjoVDBo
 #EXTINF:-1 group-title="News",Alarabia (Backup)
 https://shls-alarabiya-prod.shahid.net/alarabiya-prod_3.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NzMzOTcwNSwiaWF0IjoxNTg3MzAzNzA1LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLWFsYXJhYml5YS1wcm9kLnNoYWhpZC5uZXQvYWxhcmFiaXlhLXByb2QubTN1OD9maWx0ZXI9MTQ0XzcyMCJ9.xWMaRsATcaljZuwcvgSgEWJ_FetV4SScVXNEBjoVDBo
 #EXTINF:-1 group-title="United Emirates",Alarabia (Backup)
-http://livecdnh3.tvanywhere.ae/hls/alarabiya/03.m3u8?v=2957056943
+http://livecdnh3.tvanywhere.ae/hls/alarabiya/03.m3u8
 #EXTINF:-1 group-title="News",Alarabia (Backup)
-http://livecdnh3.tvanywhere.ae/hls/alarabiya/03.m3u8?v=2957056943
+http://livecdnh3.tvanywhere.ae/hls/alarabiya/03.m3u8
 #EXTINF:-1 group-title="United Emirates",Alarabia (Backup)
 http://livecdnh3.tvanywhere.ae/hls/alarabiya/03.m3u8
 #EXTINF:-1 group-title="News",Alarabia (Backup)
@@ -828,17 +850,17 @@ http://nimplus1eu1.giniko.com/skynews/skynewsarb.stream/chunklist_w168248182.m3u
 #EXTINF:-1 group-title="News",Arab's Sky News (Backup)
 http://nimplus1eu1.giniko.com/skynews/skynewsarb.stream/chunklist_w168248182.m3u8?nimblesessionid=1108058&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDIwIDE6NTM6NTUgUE0maGFzaF92YWx1ZT04UzUxN3YySFBaMFdjaGlFMjVtd0lnPT0mdmFsaWRtaW51dGVzPTI4ODA=
 #EXTINF:-1 group-title="United Emirates",CNBC Arabia
-http://live.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8?gmswf=15392984?787764643
+http://live.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8
 #EXTINF:-1 group-title="News",CNBC Arabia
-http://live.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8?gmswf=15392984?787764643
+http://live.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8
 #EXTINF:-1 group-title="World News",CNBC Arabic
-http://live.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8?gmswf=15392984?787764643
+http://live.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8
 #EXTINF:-1 group-title="United Emirates",CNBC Arabia (Backup)
-http://live.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8?gmswf=2756198?3292634087
+http://live.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8
 #EXTINF:-1 group-title="News",CNBC Arabia (Backup)
-http://live.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8?gmswf=2756198?3292634087
+http://live.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8
 #EXTINF:-1 group-title="World News",CNBC Arabic (Backup)
-http://live.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8?gmswf=2756198?3292634087
+http://live.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8
 #EXTINF:-1 group-title="United Emirates",Alsharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8
 #EXTINF:-1 group-title="General",Alsharjah TV
@@ -848,37 +870,37 @@ http://nimplus6eu1.giniko.com/sharjahtv/sharjahtv/chunklist_w1173139941.m3u8?nim
 #EXTINF:-1 group-title="General",Alsharjah Live
 http://nimplus6eu1.giniko.com/sharjahtv/sharjahtv/chunklist_w1173139941.m3u8?nimblesessionid=1108139&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDIwIDI6MDE6MTUgUE0maGFzaF92YWx1ZT1Mc2ZJbVpPL2J3VWJETnhFTWZDdG53PT0mdmFsaWRtaW51dGVzPTI4ODA=
 #EXTINF:-1 group-title="United Emirates",Dubia Live
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8?1590609973
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 group-title="News",Dubia Live
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8?1590609973
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 group-title="United Emirates",Sama Dubia
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8?v=2957056943
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="General",Sama Dubia
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8?v=2957056943
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="United Emirates",Dubia Zaman
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="Aflam",Dubia Zaman
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="United Emirates",Noor Dubia
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?3572333505
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="General",Noor Dubia
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?3572333505
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="United Emirates",Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?2957056943
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Sports",Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?2957056943
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="United Emirates",Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?1147504741
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="News",Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?1147504741
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="United Emirates",Dubai Sports 1
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Sports",Dubai Sports 1
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="United Emirates",Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Sports",Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="United Emirates",Abu Dabi Aloula
 http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="General",Abu Dabi Aloula
@@ -920,9 +942,9 @@ http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b
 #EXTINF:-1 group-title="Sports",Abu Dabi Sports 4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="United Emirates",Dubai TV
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8?v=787764643
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 group-title="General",Dubai TV
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8?v=787764643
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 group-title="United Emirates",Dubai TV (Backup)
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="General",Dubai TV (Backup)
@@ -971,78 +993,84 @@ http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
 #EXTINF:-1 group-title="General",AlWousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
+#EXTINF:-1 group-title="Islamic",AlWousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
 #EXTINF:-1 group-title="Kuwait",AlRai TV
-https://stream02.fasttelco.net/live/alrai.stream/chunklist_w498917617.m3u8?v=2957056943
+https://stream02.fasttelco.net/live/alrai.stream/chunklist_w498917617.m3u8
 #EXTINF:-1 group-title="General",AlRai TV
-https://stream02.fasttelco.net/live/alrai.stream/chunklist_w498917617.m3u8?v=2957056943
+https://stream02.fasttelco.net/live/alrai.stream/chunklist_w498917617.m3u8
+#EXTINF:-1 group-title="Drama",AlRai TV
+https://stream02.fasttelco.net/live/alrai.stream/chunklist_w498917617.m3u8
 #EXTINF:-1 group-title="Kuwait",AlRai TV (Backup)
 https://stream02.fasttelco.net/live/alrai.stream/chunklist_w420445644.m3u8
 #EXTINF:-1 group-title="General",AlRai TV (Backup)
 https://stream02.fasttelco.net/live/alrai.stream/chunklist_w420445644.m3u8
+#EXTINF:-1 group-title="Drama",AlRai TV (Backup)
+https://stream02.fasttelco.net/live/alrai.stream/chunklist_w420445644.m3u8
 #EXTINF:-1 group-title="Kuwait",Alkuwait Plus Live
-https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8
 #EXTINF:-1 group-title="General",Alkuwait Plus Live
-https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Kuwait",Alkuwait Plus Movies
-https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Aflam",Alkuwait Plus Movies
-https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Kuwait",Alkuwait Aloula
-https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8
 #EXTINF:-1 group-title="General",Alkuwait Aloula
-https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Kuwait",Alkuwait Aloula (Backup)
 http://nimplus3.giniko.com/kuwaittv1/kuwaittv1/chunklist_w655558488.m3u8?nimblesessionid=395159&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDIwIDI6MzQ6MjkgUE0maGFzaF92YWx1ZT1HZlQySkFlWGgzR2hldCtuc3ZnUXB3PT0mdmFsaWRtaW51dGVzPTI4ODA=
 #EXTINF:-1 group-title="General",Alkuwait Aloula (Backup)
 http://nimplus3.giniko.com/kuwaittv1/kuwaittv1/chunklist_w655558488.m3u8?nimblesessionid=395159&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDIwIDI6MzQ6MjkgUE0maGFzaF92YWx1ZT1HZlQySkFlWGgzR2hldCtuc3ZnUXB3PT0mdmFsaWRtaW51dGVzPTI4ODA=
 #EXTINF:-1 group-title="Kuwait",Alkuwait Althanie
-https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8
 #EXTINF:-1 group-title="General",Alkuwait Althanie
-https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Kuwait",AlAthraa Alkuiwaitia
-https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_1080p/chunks.m3u8
 #EXTINF:-1 group-title="General",AlAthraa Alkuiwaitia
-https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Kuwait",AlAraby Alkuwaitia
-https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8
 #EXTINF:-1 group-title="General",AlAraby Alkuwaitia
-https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Kuwait",Almajles Alkuwaitia
-https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_1080p/chunks.m3u8?v=2957056943 
+https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_1080p/chunks.m3u8
 #EXTINF:-1 group-title="General",Almajles Alkuwaitia
-https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_1080p/chunks.m3u8?v=2957056943 
+https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Kuwait",Alkareen Alkuwaitia
-https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_1080p/chunks.m3u8
 #EXTINF:-1 group-title="General",Alkareen Alkuwaitia
-https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Kuwait",Alkuwait Plus
-https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8
 #EXTINF:-1 group-title="General",Alkuwait Plus
-https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8?v=2957056943
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Kuwait",Alresala TV
 http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
 #EXTINF:-1 group-title="Islamic",Alresala TV
 http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
 #EXTINF:-1 group-title="Bahrain",Albahrain Quran
-http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?v=2992052339
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
 #EXTINF:-1 group-title="Islamic",Albahrain Quran
-http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?v=2992052339
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
 #EXTINF:-1 group-title="Bahrain",Albahrain TV
-http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?v=3116400149
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
 #EXTINF:-1 group-title="General",Albahrain TV
-http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?v=3116400149
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
 #EXTINF:-1 group-title="Bahrain",Albahrain international
-http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8?v=2957056943
-#EXTINF:-1 group-title="Documentaries",Albahrain international
-http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8?v=2957056943
+http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
+#EXTINF:-1 group-title="General",Albahrain international
+http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
 #EXTINF:-1 group-title="Bahrain",Bahrain Sports
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=3116400149
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 #EXTINF:-1 group-title="General",Bahrain Sports
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=3116400149
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 #EXTINF:-1 group-title="Bahrain",Bahrain Sports 2
-http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8?v=2957056943
+http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8
 #EXTINF:-1 group-title="General",Bahrain Sports 2
-http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8?v=2957056943
+http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8
 #EXTINF:-1 group-title="Bahrain",Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1 group-title="General",Music Now
@@ -1052,13 +1080,13 @@ http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",Dijlah TV
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Iraq",Alsharqiya
-http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/chunklist_w2069861814_b510000_sleng.m3u8?v=86757236
+http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/chunklist_w2069861814_b510000_sleng.m3u8
 #EXTINF:-1 group-title="News",Alsharqiya
-http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/chunklist_w2069861814_b510000_sleng.m3u8?v=86757236
+http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/chunklist_w2069861814_b510000_sleng.m3u8
 #EXTINF:-1 group-title="Iraq",Alsharqiya (Backup)
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1419797891.m3u8?v=86757236
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1419797891.m3u8
 #EXTINF:-1 group-title="News",Alsharqiya (Backup)
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1419797891.m3u8?v=86757236
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1419797891.m3u8
 #EXTINF:-1 group-title="Iraq",Alsharqiya (Backup)
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 group-title="News",Alsharqiya (Backup)
@@ -1072,13 +1100,13 @@ http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8
 #EXTINF:-1 group-title="General",Alsharqiya (Backup)
 http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8
 #EXTINF:-1 group-title="Iraq",Alkanat
-https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w1896448049_b1392000_slAR.m3u8?v=86757236
+https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w1896448049_b1392000_slAR.m3u8
 #EXTINF:-1 group-title="General",Alkanat
-https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w1896448049_b1392000_slAR.m3u8?v=86757236
+https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_w1896448049_b1392000_slAR.m3u8
 #EXTINF:-1 group-title="Iraq",Alrafidain TV
-http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?v=
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
 #EXTINF:-1 group-title="General",Alrafidain TV
-http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?v=
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
 #EXTINF:-1 group-title="Iraq",Alfallujah TV
 http://playback2.akamaized.net/streams/4671269_4213685_lsin1bm3r05fc19k6ea_1/exp=1587473390~acl=%2f*~data=hdntl~hmac=c5df43eb0a99bff272d6f9395570ec6bd9a6a8c7541b851b0379075d7ec6a9cc/media/4671269_4213685_lsin1bm3r05fc19k6ea_1@3628000pb.m3u8?dw=80&ts=1587384000
 #EXTINF:-1 group-title="General",Alfallujah TV
@@ -1088,9 +1116,9 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 #EXTINF:-1 group-title="General",Alrasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 #EXTINF:-1 group-title="Iraq",Alrasheed (Backup)
-http://streamer11.elementssys.com:8080/alrashid/alrashid_650kbps/index.m3u8?v=37404998
+http://streamer11.elementssys.com:8080/alrashid/alrashid_650kbps/index.m3u8
 #EXTINF:-1 group-title="General",Alrasheed (Backup)
-http://streamer11.elementssys.com:8080/alrashid/alrashid_650kbps/index.m3u8?v=37404998
+http://streamer11.elementssys.com:8080/alrashid/alrashid_650kbps/index.m3u8
 #EXTINF:-1 group-title="Oman",Oman TV
 http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="General",Oman TV
@@ -1106,6 +1134,8 @@ http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b450000
 #EXTINF:-1 group-title="Oman",Oman Althakafia
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Documentaries",Oman Althakafia
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Educational",Oman Althakafia
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Oman",Oman Sports
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
@@ -1128,21 +1158,21 @@ https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/almasiramubacherpu
 #EXTINF:-1 group-title="General",Almasirah TV
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/almasiramubacherpublish/almasira/chunks.m3u8
 #EXTINF:-1 group-title="Yemen",Adan TV
-https://master.starmena-cloud.com/hls/aden.m3u8?v=2957056943
+https://master.starmena-cloud.com/hls/aden.m3u8
 #EXTINF:-1 group-title="General",Adan TV
-https://master.starmena-cloud.com/hls/aden.m3u8?v=2957056943
+https://master.starmena-cloud.com/hls/aden.m3u8
 #EXTINF:-1 group-title="Yemen",Alyaman Shabab
-https://master.starmena-cloud.com/hls/yemenshabab.m3u8?v=2957056943
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 group-title="General",Alyaman Shabab
-https://master.starmena-cloud.com/hls/yemenshabab.m3u8?v=2957056943
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 group-title="Yemen",Hadarmawt TV
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587330041/ei/mWecXsihM4aF1gKpiYvYDw/ip/176.65.27.175/id/EB4prKv4HEk.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-h5q52n-1qhl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2790/mh/Bp/mm/44/mn/sn-h5q52n-1qhl/ms/lva/mv/m/mvi/3/pl/23/dover/11/keepalive/yes/mt/1587308364/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAL-CvKxhehVj5ihTSh9bAlS5NoMd8uKg-zWZIgc1wSV7AiA0V9zbzcEw93H3bOZDP_p5vNFLq5nI8Ve5uFg5Eb4b2A%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgQIXYsfB6Vapyn3lbqeRC7fQzwesqTbcSr84vzxpCmckCICo3iEPE5oWwVhY7hqhWrIsxANxCNy_T1lLdOCJ1KNOI/playlist/index.m3u8
 #EXTINF:-1 group-title="Soumal",Soumalian TV
-http://cdn.mediavisionuae.com:1935/live/stv.stream/chunklist_w1827589767.m3u8?v=2957056943
+http://cdn.mediavisionuae.com:1935/live/stv.stream/chunklist_w1827589767.m3u8
 #EXTINF:-1 group-title="Bein",Bein Sports News
 http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
 #EXTINF:-1 group-title="Bein",Bein Sports News (Backup)
-http://46.60.1.82:8081/live/hdmib2/chunks.m3u8?nimblesessionid=18198983&v=freedaily
+http://46.60.1.82:8081/live/hdmib2/chunks.m3u8
 #EXTINF:-1 group-title="Bein",beiN Sports 1 HD
 http://46.60.1.82:8081/live/hdmib3/chunks.m3u8
 #EXTINF:-1 group-title="Sports",Bein Sports News
@@ -1150,9 +1180,9 @@ http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
 #EXTINF:-1 group-title="News",Bein Sports News
 http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Bein Sports News (Backup)
-http://46.60.1.82:8081/live/hdmib2/chunks.m3u8?nimblesessionid=18198983&v=freedaily
+http://46.60.1.82:8081/live/hdmib2/chunks.m3u8
 #EXTINF:-1 group-title="News",Bein Sports News (Backup)
-http://46.60.1.82:8081/live/hdmib2/chunks.m3u8?nimblesessionid=18198983&v=freedaily
+http://46.60.1.82:8081/live/hdmib2/chunks.m3u8
 #EXTINF:-1 group-title="Sports",beiN Sports 1 HD
 http://46.60.1.82:8081/live/hdmib3/chunks.m3u8
 #EXTINF:-1,beiN Sports 2 HD
@@ -1167,6 +1197,10 @@ http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Christian",ABN
 http://rtmp1.abnsat.com/hls/arabic.m3u8
+#EXTINF:-1 group-title="ٌGeneral",Alkawthar TV
+http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
+#EXTINF:-1 group-title="Islamic",Alkawthar TV
+http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
 #EXTINF:-1 tvg-logo="http://en.elbesharagtv.com/uploads/7/9/0/0/79001918/300x169_3_orig.png" group-title="Christian",Elbeshara Tv
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/chunklist_w783296947_b1400000_slar_t64SEQ=.m3u8
 #EXTINF:-1 group-title="World News",Sky News (EN)
@@ -1200,7 +1234,7 @@ http://95.170.215.109:80/hls/CNArabica-Backup-M.m3u8
 #EXTINF:-1 group-title="Kids",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 group-title="Kids",Disney Junior (Backup)	
-http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?fluxustv.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="Kids",Cartoon World
 http://web.onair-radio.eu:1935/cartoon/cartoon/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Duck Tv (Cartoon)
@@ -1210,7 +1244,7 @@ http://95.170.215.109/hls/m3u8/Majid-Backup.m3u8
 #EXTINF:-1 group-title="Kids",Karameesh
 http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
 #EXTINF:-1 group-title="Sports",Real Madrid
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?v=2512977726
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:-1 group-title="World News",France24-Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="World News",FR 24 News
@@ -1225,10 +1259,6 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 http://95.170.215.107:80/hls/BBCArabic-Backup-M.m3u8
 #EXTINF:-1 group-title="News",Al Araby HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="ٌIslamic",Alkawthar TV
-http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
-#EXTINF:-1 group-title="ٌGeneral",Alkawthar TV
-http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
 #EXTINF:-1 group-title="Islamic",Muslim Channel TV (RU)
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1//chunklist.m3u8
 #EXTINF:-1 group-title="Extra 1",Canadian Arab TV (Canada)
@@ -1273,7 +1303,9 @@ http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 group-title="Morroco",Assadissa
 http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1 group-title="Educational",ARRYADIA
+#EXTINF:-1 group-title="Morroco",ARRYADIA
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Sports",ARRYADIA
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 group-title="Extra 1",Citruss TV HD
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
