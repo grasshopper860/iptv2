@@ -556,13 +556,13 @@ http://nimplus6eu1.giniko.com/aljazeeraeng/aljazeeraeng/chunklist_w1823500404.m3
 http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 group-title="Aljazeera",Aljazera Balkans
 http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:-1 group-title="Aljazeera",Aljazeera Mubasher (US)
+https://204.107.27.196/live/3032.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="News",Aljazeera Mubasher (US)
+https://204.107.27.196/live/3032.high.stream/playlist.m3u8
 #EXTINF:-1 group-title="Aljazeera",Aljazeera Mubasher
-https://204.107.27.196/live/3032.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="News",Aljazeera Mubasher
-https://204.107.27.196/live/3032.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="Aljazeera",Aljazeera Mubasher (Backup)
 http://live-hls-web-ajm.getaj.net/AJM/02.m3u8
-#EXTINF:-1 group-title="News",Aljazeera Mubasher (Backup)
+#EXTINF:-1 group-title="News",Aljazeera Mubasher
 http://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 #EXTINF:-1 group-title="Aljazeera",Aljazeera Mubasher (Backup)
 http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
